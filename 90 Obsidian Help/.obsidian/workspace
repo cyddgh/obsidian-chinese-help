@@ -1,33 +1,46 @@
 {
   "main": {
-    "id": "d1deb2c6512a7001",
+    "id": "29a6dae608043bf8",
     "type": "split",
     "children": [
       {
-        "id": "27798542268253eb",
+        "id": "8725c1f92039105a",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04 资源/04 资源.md",
+            "file": "Start here.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "57b861f113370c0f"
+      },
+      {
+        "id": "27cdc6b849682e89",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Start here.md",
+            "mode": "preview"
+          }
+        },
+        "group": "57b861f113370c0f"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f6fdbed03751815c",
+    "id": "4e0a24a93e841c3e",
     "type": "split",
     "children": [
       {
-        "id": "2cfbca5e02745a8d",
+        "id": "674e3eee116120b3",
         "type": "tabs",
         "children": [
           {
-            "id": "47bebbd53a5aa096",
+            "id": "36b6cc57747986f6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,18 +48,10 @@
             }
           },
           {
-            "id": "bc92cc395bea58df",
+            "id": "aec02ab4529e890c",
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
-            }
-          },
-          {
-            "id": "f087466c6e4db294",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
               "state": {}
             }
           }
@@ -54,33 +59,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393
+    "width": 300
   },
   "right": {
-    "id": "698094dcc944becf",
+    "id": "85380ca4b78a5c04",
     "type": "split",
     "children": [
       {
-        "id": "bd88125c318cdce6",
+        "id": "316fb3dee9493c84",
         "type": "tabs",
         "children": [
           {
-            "id": "b5332bc8829889cc",
+            "id": "aeb92bcc8720481d",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 资源/04 资源.md"
-              }
-            }
-          },
-          {
-            "id": "a1eb2025c1ab29ad",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "04 资源/04 资源.md"
+                "file": "Start here.md"
               }
             }
           }
@@ -92,10 +87,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "04 资源/04 资源.md",
-    "00 新手入门/00 新手入门.md",
-    "01 理论/01 笔记方法（道）.md",
-    "00 新手入门/00.01 新手入门的高阶内容.md",
-    "00 新手入门/00.03 关于本文档的说明.md"
+    "Start here.md",
+    "Release notes/v0.7.6.md",
+    "Release notes/v0.8.0.md",
+    "Release notes/v0.0.1.md",
+    "Release notes/v0.7.0.md"
   ]
 }

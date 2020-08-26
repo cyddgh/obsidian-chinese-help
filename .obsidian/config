@@ -10,6 +10,11 @@
     "markdown-importer": false,
     "word-count": true,
     "outline": true,
-    "zk-prefixer": true
-  }
+    "zk-prefixer": true,
+    "starred": true,
+    "custom-css": true
+  },
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Attachment"
 }
