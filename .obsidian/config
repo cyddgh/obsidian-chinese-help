@@ -1,0 +1,15 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "file-explorer": true,
+    "global-search": true,
+    "switcher": true,
+    "graph": true,
+    "backlink": true,
+    "command-palette": true,
+    "markdown-importer": false,
+    "word-count": true,
+    "outline": true,
+    "zk-prefixer": true
+  }
+}

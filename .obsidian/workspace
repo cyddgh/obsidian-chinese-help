@@ -1,0 +1,89 @@
+{
+  "main": {
+    "id": "d1deb2c6512a7001",
+    "type": "split",
+    "children": [
+      {
+        "id": "27798542268253eb",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "00 新手入门.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f6fdbed03751815c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cfbca5e02745a8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "47bebbd53a5aa096",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "bc92cc395bea58df",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "698094dcc944becf",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd88125c318cdce6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5332bc8829889cc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 新手入门.md"
+              }
+            }
+          },
+          {
+            "id": "a1eb2025c1ab29ad",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 新手入门.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
