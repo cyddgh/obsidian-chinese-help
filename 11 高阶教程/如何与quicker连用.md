@@ -1,5 +1,13 @@
 我本人quicker的推荐码是555-6895（被推荐人在注册后30天内购买专业版可获赠3个月（90天）使用时长，从各渠道购买均可，见https://www.yuque.com/quicker/help/recommend-code）
 
+# quicker的动作
+管理员蚕子老师以免费的quicker工具为obsidian创建了许多快捷操作：https://getquicker.net/Share/Actions?exe=obsidian.exe
+
+嘉理 
+- 添加内链，https://getquicker.net/Sharedaction?code=42be3923-4783-460c-1bb1-08d82a1761cb&fromMyShare=true&tdsourcetag=s_pctim_aiomsg
+- 显示标题自带文字，https://getquicker.net/Sharedaction?code=11c83ef2-ceb4-4955-1bb0-08d82a1761cb&fromMyShare=true&tdsourcetag=s_pctim_aiomsg
+
+
 # 蚕子老师的倡议
  各位Quicker用户，蚕子发起一个小倡议：用最少的操作量在原创Quicker动作及分享页面中展示出富有指导性的动画演示、使用介绍、步骤标注。
 争取我们的动作分享页面获得特殊标识，比如一顶博士帽，以区别那些纯功能性的动作，即让【原创动作兼顾功能性和指导性】。
