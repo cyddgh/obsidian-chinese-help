@@ -2,7 +2,7 @@
 If you have data in Roam, it's easy to export and play around with it in Obsidian.
 
 > 1. Choose "Export all" in the menu:
-> ![[Pasted image.png]]
+> ![[202008271033.png]]
 
 > 2. Click the blue "Export all" button:
 > ![[Pasted image 1.png]]
