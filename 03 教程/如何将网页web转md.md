@@ -4,4 +4,4 @@
 - Roam-highlighter – https://chrome.google.com/webstore/detail/roam-highlighter/mcoimieglmhdjdoplhpcmifgplkbfibp?hl=zh-TW&utm_source=chrome-ntp-launcher
 - Joplin Web Clipper（chrome 扩展）：https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?utm_campaign=en&utm_source=en-et-na-us-oc-webstrapp&utm_medium=et
 
-[[和obsidian连用]]
+[[11.01 和obsidian连用的软件]]

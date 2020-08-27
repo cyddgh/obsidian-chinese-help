@@ -6,14 +6,28 @@
       {
         "id": "eb8c1b424cc69678",
         "type": "leaf",
+        "dimension": 72.16494845360825,
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11 高阶教程/如何修改无序列表样式.md",
+            "file": "00 新手入门/00.09 石墨文档迁移计划.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "7812f3f49dc34cdb"
+      },
+      {
+        "id": "511b96db3de31003",
+        "type": "leaf",
+        "dimension": 27.835051546391753,
+        "state": {
+          "type": "localgraph",
+          "state": {
+            "file": "00 新手入门/00.09 石墨文档迁移计划.md"
+          }
+        },
+        "group": "7812f3f49dc34cdb"
       }
     ],
     "direction": "vertical"
@@ -70,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 高阶教程/如何修改无序列表样式.md"
+                "file": "00 新手入门/00.09 石墨文档迁移计划.md"
               }
             }
           },
@@ -80,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 高阶教程/如何修改无序列表样式.md"
+                "file": "00 新手入门/00.09 石墨文档迁移计划.md"
               }
             }
           }
@@ -88,13 +102,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "11 高阶教程/如何修改无序列表样式.md",
-    "Attachment/Pasted image.png",
-    "11 高阶教程/怀揣可爱.md",
-    "11 高阶教程/船长.md",
-    "11 高阶教程/paprika.md"
+    "00 新手入门/00.09 石墨文档迁移计划.md",
+    "00 新手入门/00.08 简单的问答（Q&A）.md",
+    "00 新手入门/00.03 关于本文档的说明.md",
+    "07 信息源与贡献者/玉树芝兰.md",
+    "07 信息源与贡献者/学习骇客.md"
   ]
 }

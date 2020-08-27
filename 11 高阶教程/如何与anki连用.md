@@ -6,4 +6,4 @@
 - 如何将Markdown笔记转入ANKI复习？，[[学习骇客]]，https://mp.weixin.qq.com/s/TlMhZjOxtMMNhJW2bI4_LA 
 
 
-[[和obsidian连用]]
+[[11.01 和obsidian连用的软件]]
