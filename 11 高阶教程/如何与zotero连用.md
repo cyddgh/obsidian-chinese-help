@@ -4,3 +4,7 @@
 Obsidian如何跟Zotero中的文献链接，老王，https://zhuanlan.zhihu.com/p/148535453 
 
 [[和obsidian连用]]
+
+### 如何抓取中国知网的元数据？
+使用茉莉花（jasminum）插件，可以直接抓取知网的元数据。by [[Feng]]
+

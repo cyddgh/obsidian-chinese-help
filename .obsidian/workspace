@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "6c28528ef8c27e6c",
+        "id": "eb8c1b424cc69678",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03 教程/如何给obsidian更换主题（CSS文件的应用）.md",
+            "file": "11 高阶教程/如何修改无序列表样式.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 教程/如何给obsidian更换主题（CSS文件的应用）.md"
+                "file": "11 高阶教程/如何修改无序列表样式.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 教程/如何给obsidian更换主题（CSS文件的应用）.md"
+                "file": "11 高阶教程/如何修改无序列表样式.md"
               }
             }
           }
@@ -91,10 +91,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "03 教程/如何给obsidian更换主题（CSS文件的应用）.md",
-    "Attachment/202008271057.png",
-    "Attachment/202008271058.png",
-    "Attachment/Pasted image 2.png",
-    "03 教程/03 教程.md"
+    "11 高阶教程/如何修改无序列表样式.md",
+    "Attachment/Pasted image.png",
+    "11 高阶教程/怀揣可爱.md",
+    "11 高阶教程/船长.md",
+    "11 高阶教程/paprika.md"
   ]
 }

@@ -1,0 +1,1 @@
+转[[王树义]]老师的发言：群里面有没有小伙伴长期用 Notion 的？我做了个 Web 应用，可以批量导出 Notion Pages 为 Markdown，包含正确的中文名称，子页面整合，下载对应图片，保留在线文档存储链接等功能。这样你可以快速把知识库切换到 Roam Research 或者 Obsidian 。Github 链接在这里：https://github.com/wshuyi/demo-notion-markdown-exporter 有详细的使用步骤说明。
