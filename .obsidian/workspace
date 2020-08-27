@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "ba91a9ac1fbbfb1f",
+        "id": "40ce73e0b8bde2e8",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "00 新手入门/00 新手入门.md",
+            "file": "07 信息源与贡献者/偶像A.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 新手入门/00 新手入门.md"
+                "file": "07 信息源与贡献者/偶像A.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 新手入门/00 新手入门.md"
+                "file": "07 信息源与贡献者/偶像A.md"
               }
             }
           }
@@ -93,10 +93,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "00 新手入门/00 新手入门.md",
-    "03 教程/如何合并两个库(vault).md",
-    "03 教程/03 教程.md",
-    "00 新手入门/00.11 obsidian爱好者QQ群.md",
-    "00 新手入门/00.13 关于QQ群人满踢人的说明.md"
+    "09 碎记/偶像A.md",
+    "09 碎记/202008051032可视化讨论by偶像A.md",
+    "09 碎记/202008111451zk中三类卡片的体会 by boninall.md",
+    "07 信息源与贡献者/Untitled.md",
+    "00 新手入门/00.11 obsidian爱好者QQ群.md"
   ]
 }
