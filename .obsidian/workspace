@@ -4,24 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "eb8c1b424cc69678",
+        "id": "ba91a9ac1fbbfb1f",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "03 教程/大纲插件.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "ba91a9ac1fbbfb1f",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "02 名词解释/TOC.md",
+            "file": "00 新手入门/00 新手入门.md",
             "mode": "source"
           }
         }
@@ -81,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03 教程/大纲插件.md"
+                "file": "00 新手入门/00 新手入门.md"
               }
             }
           },
@@ -91,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03 教程/大纲插件.md"
+                "file": "00 新手入门/00 新手入门.md"
               }
             }
           }
@@ -104,10 +93,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "03 教程/大纲插件.md",
-    "02 名词解释/TOC.md",
-    "Attachment/Pasted image.png",
+    "00 新手入门/00 新手入门.md",
+    "03 教程/如何合并两个库(vault).md",
     "03 教程/03 教程.md",
-    "00 新手入门/Untitled.md"
+    "00 新手入门/00.11 obsidian爱好者QQ群.md",
+    "00 新手入门/00.13 关于QQ群人满踢人的说明.md"
   ]
 }
