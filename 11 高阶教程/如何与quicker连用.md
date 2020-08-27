@@ -3,9 +3,12 @@
 # quicker的动作
 管理员蚕子老师以免费的quicker工具为obsidian创建了许多快捷操作：https://getquicker.net/Share/Actions?exe=obsidian.exe
 
-嘉理 
+[[嘉理]]
 - 添加内链，https://getquicker.net/Sharedaction?code=42be3923-4783-460c-1bb1-08d82a1761cb&fromMyShare=true&tdsourcetag=s_pctim_aiomsg
 - 显示标题自带文字，https://getquicker.net/Sharedaction?code=11c83ef2-ceb4-4955-1bb0-08d82a1761cb&fromMyShare=true&tdsourcetag=s_pctim_aiomsg
+
+[[Zplusless]]：
+- [[202008271407用Quicker引用PDF]]
 
 
 # 蚕子老师的倡议
