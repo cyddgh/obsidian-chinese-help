@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "27798542268253eb",
+        "id": "6c28528ef8c27e6c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01 理论/01.01 我个人的文章.md",
+            "file": "11 高阶教程/如何与quicker连用.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 理论/01.01 我个人的文章.md"
+                "file": "11 高阶教程/如何与quicker连用.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 理论/01.01 我个人的文章.md"
+                "file": "11 高阶教程/如何与quicker连用.md"
               }
             }
           }
@@ -88,14 +88,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "01 理论/01.01 我个人的文章.md",
-    "01 理论/01 笔记方法.md",
-    "00 新手入门/00.05 个人对新手的建议.md",
-    "00 新手入门/00 新手入门.md",
-    "00 新手入门/Untitled.md"
+    "11 高阶教程/如何与quicker连用.md",
+    "11 高阶教程/Quicker与obsidian连用.md",
+    "03 教程/和obsidian连用.md",
+    "11 高阶教程/Untitled.md",
+    "11 高阶教程/如何与anki连用.md"
   ]
 }

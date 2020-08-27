@@ -16,5 +16,6 @@
   },
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Attachment"
+  "attachmentFolderPath": "Attachment",
+  "readableLineLength": false
 }
