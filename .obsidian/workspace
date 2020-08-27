@@ -10,7 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "05 常见问题/05 常见问题.md",
+            "file": "03 教程/大纲插件.md",
+            "mode": "preview"
+          }
+        }
+      },
+      {
+        "id": "ba91a9ac1fbbfb1f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "02 名词解释/TOC.md",
             "mode": "source"
           }
         }
@@ -70,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "05 常见问题/05 常见问题.md"
+                "file": "03 教程/大纲插件.md"
               }
             }
           },
@@ -80,21 +91,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "05 常见问题/05 常见问题.md"
+                "file": "03 教程/大纲插件.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 299
+    "width": 321,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "05 常见问题/05 常见问题.md",
-    "02 名词解释/转义符.md",
-    "05 常见问题/Untitled.md",
-    "05 常见问题/为什么在编辑界面原本分行的文字为何在预览界面就全部变成一行了.md",
-    "05 常见问题/为什么我的obsidian无法正常编辑（光标为绿色或其他颜色）.md"
+    "03 教程/大纲插件.md",
+    "02 名词解释/TOC.md",
+    "Attachment/Pasted image.png",
+    "03 教程/03 教程.md",
+    "00 新手入门/Untitled.md"
   ]
 }

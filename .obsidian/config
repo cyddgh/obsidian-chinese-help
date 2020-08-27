@@ -12,7 +12,8 @@
     "outline": true,
     "zk-prefixer": true,
     "starred": true,
-    "custom-css": true
+    "custom-css": true,
+    "open-with-default-app": true
   },
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
