@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11 高阶教程/如何与quicker连用.md",
+            "file": "03 教程/如何给obsidian更换主题（CSS文件的应用）.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 高阶教程/如何与quicker连用.md"
+                "file": "03 教程/如何给obsidian更换主题（CSS文件的应用）.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 高阶教程/如何与quicker连用.md"
+                "file": "03 教程/如何给obsidian更换主题（CSS文件的应用）.md"
               }
             }
           }
@@ -91,10 +91,10 @@
     "width": 300
   },
   "lastOpenFiles": [
-    "11 高阶教程/如何与quicker连用.md",
-    "11 高阶教程/Quicker与obsidian连用.md",
-    "03 教程/和obsidian连用.md",
-    "11 高阶教程/Untitled.md",
-    "11 高阶教程/如何与anki连用.md"
+    "03 教程/如何给obsidian更换主题（CSS文件的应用）.md",
+    "Attachment/202008271057.png",
+    "Attachment/202008271058.png",
+    "Attachment/Pasted image 2.png",
+    "03 教程/03 教程.md"
   ]
 }
