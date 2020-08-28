@@ -1,0 +1,2 @@
+[[1.4.2]]推荐了
+[How do you effectively keep and organize your study notes?](https://www.quora.com/How-do-you-effectively-keep-and-organize-your-study-notes/answer/S%C3%B6nke-Ahrens?ch=10&share=115486bd&srid=uJBsW)  Quora上How to Take Smart Notes这本书的作者[[Sönke Ahrens]]的回答
