@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "09 碎记/202008281248How do you effectively keep and organize your study notes.md",
+            "file": "10 工具/双链软件.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09 碎记/202008281248How do you effectively keep and organize your study notes.md"
+                "file": "10 工具/双链软件.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "09 碎记/202008281248How do you effectively keep and organize your study notes.md"
+                "file": "10 工具/双链软件.md"
               }
             }
           },
@@ -96,14 +96,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321,
-    "collapsed": true
+    "width": 170
   },
   "lastOpenFiles": [
-    "09 碎记/202008281248How do you effectively keep and organize your study notes.md",
-    "1.4.2.md",
-    "09 碎记/202008281248.md",
-    "10 工具/getliner.md",
-    "03 教程/如何插入文件.md"
+    "10 工具/双链软件.md",
+    "10 工具/卡片写作软件.md",
+    "10 工具/大纲软件.md",
+    "10 工具/传统笔记软件.md",
+    "04 资源/关于笔记方法的视频资源.md"
   ]
 }
