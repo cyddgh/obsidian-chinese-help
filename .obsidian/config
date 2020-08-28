@@ -13,10 +13,12 @@
     "zk-prefixer": true,
     "starred": true,
     "custom-css": true,
-    "open-with-default-app": true
+    "open-with-default-app": true,
+    "tag-pane": true,
+    "page-preview": true
   },
   "alwaysUpdateLinks": true,
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "attachmentFolderPath": "Attachment",
   "readableLineLength": false,
   "promptDelete": false

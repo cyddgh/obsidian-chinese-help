@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "07 信息源与贡献者/偶像A.md",
+            "file": "09 碎记/202008281248How do you effectively keep and organize your study notes.md",
             "mode": "source"
           }
         }
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "07 信息源与贡献者/偶像A.md"
+                "file": "09 碎记/202008281248How do you effectively keep and organize your study notes.md"
               }
             }
           },
@@ -80,12 +80,19 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "07 信息源与贡献者/偶像A.md"
+                "file": "09 碎记/202008281248How do you effectively keep and organize your study notes.md"
               }
             }
+          },
+          {
+            "id": "36520312dc394c05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -93,10 +100,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "09 碎记/偶像A.md",
-    "09 碎记/202008051032可视化讨论by偶像A.md",
-    "09 碎记/202008111451zk中三类卡片的体会 by boninall.md",
-    "07 信息源与贡献者/Untitled.md",
-    "00 新手入门/00.11 obsidian爱好者QQ群.md"
+    "09 碎记/202008281248How do you effectively keep and organize your study notes.md",
+    "1.4.2.md",
+    "09 碎记/202008281248.md",
+    "10 工具/getliner.md",
+    "03 教程/如何插入文件.md"
   ]
 }
