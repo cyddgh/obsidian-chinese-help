@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "40ce73e0b8bde2e8",
+        "id": "20931f12b71ef6e0",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "10 工具/双链软件.md",
-            "mode": "source"
+            "file": "09 碎记/202008301018卢曼本人卡片的电子化和可视化.md",
+            "mode": "preview"
           }
         }
       }
@@ -54,7 +54,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 393
+    "width": 495
   },
   "right": {
     "id": "698094dcc944becf",
@@ -70,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "10 工具/双链软件.md"
+                "file": "09 碎记/202008301018卢曼本人卡片的电子化和可视化.md"
               }
             }
           },
@@ -80,7 +80,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "10 工具/双链软件.md"
+                "file": "09 碎记/202008301018卢曼本人卡片的电子化和可视化.md"
               }
             }
           },
@@ -96,13 +96,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 170
+    "width": 271,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "10 工具/双链软件.md",
-    "10 工具/卡片写作软件.md",
-    "10 工具/大纲软件.md",
-    "10 工具/传统笔记软件.md",
-    "04 资源/关于笔记方法的视频资源.md"
+    "09 碎记/202008301018卢曼卡片的电子化和可视化.md",
+    "Attachment/Pasted image.png",
+    "09 碎记/202008301018.md",
+    "09 碎记/202008300949雪小豹翻译的是卢曼自述.md",
+    "00 新手入门/00.02 版权申明.md"
   ]
 }
