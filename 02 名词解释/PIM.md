@@ -1,0 +1,2 @@
+英文为Personal Information Management System
+个人信息管理器
