@@ -8,11 +8,8 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "09 碎记/202008301018卢曼本人卡片的电子化和可视化.md",
-            "mode": "preview"
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -54,7 +51,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495
+    "width": 343
   },
   "right": {
     "id": "698094dcc944becf",
@@ -69,9 +66,7 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {
-                "file": "09 碎记/202008301018卢曼本人卡片的电子化和可视化.md"
-              }
+              "state": {}
             }
           },
           {
@@ -79,9 +74,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "09 碎记/202008301018卢曼本人卡片的电子化和可视化.md"
-              }
+              "state": {}
             }
           },
           {
@@ -100,10 +93,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "09 碎记/202008301018卢曼卡片的电子化和可视化.md",
-    "Attachment/Pasted image.png",
-    "09 碎记/202008301018.md",
-    "09 碎记/202008300949雪小豹翻译的是卢曼自述.md",
+    "05 常见问题/为什么数学上的减号变成了无序列表.md",
+    "12 笔记模板/12.01 笔记模板 by一蓑烟雨.md",
+    "timing.md",
+    "99 存档/99 存档.md",
     "00 新手入门/00.02 版权申明.md"
   ]
 }
