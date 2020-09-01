@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "13 obsidian/13.01 obsidian要出移动端吗.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,9 @@
             "type": "leaf",
             "state": {
               "type": "search",
-              "state": {}
+              "state": {
+                "query": "块引用"
+              }
             }
           },
           {
@@ -51,7 +56,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 343
+    "width": 489
   },
   "right": {
     "id": "698094dcc944becf",
@@ -66,7 +71,9 @@
             "type": "leaf",
             "state": {
               "type": "backlink",
-              "state": {}
+              "state": {
+                "file": "13 obsidian/13.01 obsidian要出移动端吗.md"
+              }
             }
           },
           {
@@ -74,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "13 obsidian/13.01 obsidian要出移动端吗.md"
+              }
             }
           },
           {
@@ -89,14 +98,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 271,
+    "width": 352,
     "collapsed": true
   },
   "lastOpenFiles": [
-    "05 常见问题/为什么数学上的减号变成了无序列表.md",
-    "12 笔记模板/12.01 笔记模板 by一蓑烟雨.md",
-    "timing.md",
-    "99 存档/99 存档.md",
-    "00 新手入门/00.02 版权申明.md"
+    "13 obsidian/13.01 obsidian要出移动端吗.md",
+    "风了.md",
+    "09 碎记/202009011957佐藤大的书 by 风了.md",
+    "Attachment/Pasted image.png",
+    "09 碎记/202009011957.md"
   ]
 }
