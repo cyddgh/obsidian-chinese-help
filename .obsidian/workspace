@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "13 obsidian/13.01 obsidian要出移动端吗.md",
+            "file": "11 高阶教程/11 高阶教程.md",
             "mode": "source"
           }
         }
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "13 obsidian/13.01 obsidian要出移动端吗.md"
+                "file": "11 高阶教程/11 高阶教程.md"
               }
             }
           },
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "13 obsidian/13.01 obsidian要出移动端吗.md"
+                "file": "11 高阶教程/11 高阶教程.md"
               }
             }
           },
@@ -102,10 +102,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "13 obsidian/13.01 obsidian要出移动端吗.md",
-    "风了.md",
-    "09 碎记/202009011957佐藤大的书 by 风了.md",
-    "Attachment/Pasted image.png",
-    "09 碎记/202009011957.md"
+    "11 高阶教程/11 高阶教程.md",
+    "11 高阶教程/11.01 和obsidian连用的软件.md",
+    "09 碎记/202009022221.md",
+    "03 教程/如何插入上标和下标.md",
+    "如何插入脚注.md"
   ]
 }
