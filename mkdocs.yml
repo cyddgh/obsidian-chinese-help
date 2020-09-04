@@ -1,0 +1,49 @@
+# 官方教程：
+# mkdocs: https://www.mkdocs.org/user-guide/configuration/
+# mkdocs-material: https://squidfunk.github.io/mkdocs-material/
+site_name: Obsidian群分享
+theme:
+  name: material
+  #  favicon: attachment/portrait.png
+  features:
+    - navigation.expand # 默认展开目录
+    - tabs # 在页面上方显示几个主要文件夹
+markdown_extensions: # 一些插件
+  - attr_list 
+  - toc:
+      permalink: true # 文章的标题都生成一个锚点
+  # allows to add HTML attributes and CSS classes to Markdown elements
+  # https://squidfunk.github.io/mkdocs-material/reference/images/
+# 网友的，我也不清楚下面的插件有啥用，先保留着
+  - admonition
+  - codehilite:
+      guess_lang: false
+      linenums: false
+  - footnotes
+  - meta
+  - def_list
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  # - pymdownx.emoji:
+      # emoji_generator: !!python/name:pymdownx.emoji.to_png
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.tilde
+plugins:
+  - exclude:
+      glob:
+        - notes/*
+        - .trash/*
+        - "*.tmp"
+        - "*.pdf"
+        - "*.gz"
+      regex:
+        - '.*\.(tmp|bin|tar)$'
