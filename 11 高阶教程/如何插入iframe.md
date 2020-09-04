@@ -9,3 +9,6 @@
 
 <iframe src="https://trello.com/b/Psqfqp7I.html" frameBorder="0" width="700" height="500"></iframe>
 obsidian-roadmap 开发路线图 也可以嵌入进去
+
+更多的可以参考
+[[202009031625用iframe插入dynalist by Aki]]
