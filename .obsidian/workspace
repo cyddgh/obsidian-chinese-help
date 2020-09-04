@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "11 高阶教程/11 高阶教程.md",
+            "file": "00 新手入门/00.10 obsidian帮助文档.md",
             "mode": "source"
           }
         }
@@ -56,7 +56,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 489
+    "width": 283
   },
   "right": {
     "id": "698094dcc944becf",
@@ -72,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 高阶教程/11 高阶教程.md"
+                "file": "00 新手入门/00.10 obsidian帮助文档.md"
               }
             }
           },
@@ -82,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 高阶教程/11 高阶教程.md"
+                "file": "00 新手入门/00.10 obsidian帮助文档.md"
               }
             }
           },
@@ -98,14 +98,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352,
-    "collapsed": true
+    "width": 352
   },
   "lastOpenFiles": [
-    "11 高阶教程/11 高阶教程.md",
-    "11 高阶教程/11.01 和obsidian连用的软件.md",
-    "09 碎记/202009022221.md",
-    "03 教程/如何插入上标和下标.md",
-    "如何插入脚注.md"
+    "00 新手入门/00.10 obsidian帮助文档.md",
+    "13 obsidian/13.01 obsidian要出移动端吗.md",
+    "00 新手入门/00 新手入门.md",
+    "00 新手入门/00.10 帮助文档的翻译.md",
+    "09 碎记/202009040847双链软件cerveau.md"
   ]
 }
