@@ -1,14 +1,25 @@
-[[M]]
-论坛里的 iframe默认是这样的，但是B站好像比较特殊
-<iframe src="https://xxxxxxx.html" frameBorder="0" width="500" height="220"></iframe>
 
-所以就用网上别人做的这个
-<iframe src="https://xbeibeix.com/api/bilibili/biliplayer/?url=https://www.bilibili.com/video/BV1iT4y1w7AT/" frameBorder="0" width="500" height="220"></iframe>
+插入B站视频
+<iframe src="https://player.bilibili.com/player.html?aid=626900173&bvid=BV17t4y1S7pz&cid=232358663&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-其实后面就是B 站的分享时候的那个网址替换掉 这样： https://xbeibeix.com/api/bilibili/biliplayer/?url=B站网址
 
+
+插入obsidian-roadmap 
 <iframe src="https://trello.com/b/Psqfqp7I.html" frameBorder="0" width="700" height="500"></iframe>
-obsidian-roadmap 开发路线图 也可以嵌入进去
+
+本节贡献者：[[M]] 
+
+---
+
+
+
+---
+
+此外教程中第一个视频在[[202009041459利用WGestures达到专注写作 by ABC]]
+
+---
 
 更多的可以参考
+[[202009041520如何插入B站视频]]
 [[202009031625用iframe插入dynalist by Aki]]
+[[202009051733插入B站视频的两种方法 by M]]

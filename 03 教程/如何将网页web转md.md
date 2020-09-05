@@ -4,4 +4,9 @@
 - Roam-highlighter – https://chrome.google.com/webstore/detail/roam-highlighter/mcoimieglmhdjdoplhpcmifgplkbfibp?hl=zh-TW&utm_source=chrome-ntp-launcher
 - Joplin Web Clipper（chrome 扩展）：https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?utm_campaign=en&utm_source=en-et-na-us-oc-webstrapp&utm_medium=et
 
+---
+Evan Lee(873999785)  15:36:33
+我用 web clipper 先把 网页剪藏导出为markdown，然后再typora中编辑，并通过 typora和picgo配合将图片上传图床并替换文档中的图片链接，最后再复制到 obsidian 中手动对关键词进行 [[]] 关联
+
+
 [[和obsidian连用的软件]]
