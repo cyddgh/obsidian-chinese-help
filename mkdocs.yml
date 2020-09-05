@@ -1,20 +1,21 @@
-# 官方教程：
-# mkdocs: https://www.mkdocs.org/user-guide/configuration/
+# official tutorial 关于博客的配置教程
 # mkdocs-material: https://squidfunk.github.io/mkdocs-material/
-site_name: Obsidian群分享
+# mkdocs: https://www.mkdocs.org/user-guide/configuration/
+
+site_name: Jackie的博客
+strict: false
 theme:
   name: material
-  #  favicon: attachment/portrait.png
+  favicon: attachment/portrait.png
   features:
     - navigation.expand # 默认展开目录
     - tabs # 在页面上方显示几个主要文件夹
-markdown_extensions: # 一些插件
-  - attr_list 
+markdown_extensions: 
+  - attr_list # https://squidfunk.github.io/mkdocs-material/reference/images/
+  - pymdownx.tabbed  # https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
+  - nl2br # newline-to-break 换行渲染不会合并为一行
   - toc:
-      permalink: true # 文章的标题都生成一个锚点
-  # allows to add HTML attributes and CSS classes to Markdown elements
-  # https://squidfunk.github.io/mkdocs-material/reference/images/
-# 网友的，我也不清楚下面的插件有啥用，先保留着
+      permalink: '#' # heading anchor 文章的标题都生成一个锚点
   - admonition
   - codehilite:
       guess_lang: false
@@ -38,10 +39,11 @@ markdown_extensions: # 一些插件
   - pymdownx.tasklist
   - pymdownx.tilde
 plugins:
+  - search
+  - roamlinks 
+    #- autolinks 
   - exclude:
       glob:
-        - notes/*
-        - .trash/*
         - "*.tmp"
         - "*.pdf"
         - "*.gz"
