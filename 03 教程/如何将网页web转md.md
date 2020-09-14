@@ -3,6 +3,9 @@
 - TabCopy – https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb?hl=zh-TW&utm_source=chrome-ntp-launcher
 - Roam-highlighter – https://chrome.google.com/webstore/detail/roam-highlighter/mcoimieglmhdjdoplhpcmifgplkbfibp?hl=zh-TW&utm_source=chrome-ntp-launcher
 - Joplin Web Clipper（chrome 扩展）：https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?utm_campaign=en&utm_source=en-et-na-us-oc-webstrapp&utm_medium=et
+- MarkDownload - Markdown Web Clipper
+- markdown-clipper
+- 拷贝猫
 
 ---
 Evan Lee(873999785)  15:36:33
@@ -10,3 +13,4 @@ Evan Lee(873999785)  15:36:33
 
 
 [[和obsidian连用的软件]]
+[[202009131059网页转md by ABC]]
