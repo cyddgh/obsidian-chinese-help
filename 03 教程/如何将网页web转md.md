@@ -3,9 +3,10 @@
 - TabCopy – https://chrome.google.com/webstore/detail/tabcopy/micdllihgoppmejpecmkilggmaagfdmb?hl=zh-TW&utm_source=chrome-ntp-launcher
 - Roam-highlighter – https://chrome.google.com/webstore/detail/roam-highlighter/mcoimieglmhdjdoplhpcmifgplkbfibp?hl=zh-TW&utm_source=chrome-ntp-launcher
 - Joplin Web Clipper（chrome 扩展）：https://chrome.google.com/webstore/detail/joplin-web-clipper/alofnhikmmkdbbbgpnglcpdollgjjfek?utm_campaign=en&utm_source=en-et-na-us-oc-webstrapp&utm_medium=et
-- MarkDownload - Markdown Web Clipper
+- MarkDownload - Markdown Web Clipper ：https://chrome.google.com/webstore/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi
 - markdown-clipper
 - 拷贝猫
+- Pandoc Online： https://foliovision.com/seo-tools/pandoc-online# by [[余小西]]
 
 ---
 Evan Lee(873999785)  15:36:33
