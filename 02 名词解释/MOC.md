@@ -10,3 +10,5 @@
 [[202009081750Moc的践行 by boninall]]
 [[202009052228PARA与MOC介绍]]
 [[202008281634IMF核心是MOC by姚]]
+
+[[202009242211MOC的理解 by boninall]]

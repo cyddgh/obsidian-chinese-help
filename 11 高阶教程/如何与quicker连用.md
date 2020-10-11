@@ -8,7 +8,7 @@
 - 显示标题自带文字，https://getquicker.net/Sharedaction?code=11c83ef2-ceb4-4955-1bb0-08d82a1761cb&fromMyShare=true&tdsourcetag=s_pctim_aiomsg
 
 [[Zplusless]]：
-- [[202008271407用Quicker引用PDF]]
+- [[202008271407用Quicker引用PDF by Zplusless]]
 
 
 # 蚕子老师的倡议
