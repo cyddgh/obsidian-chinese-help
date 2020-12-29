@@ -4,3 +4,7 @@ by [[Macdown]]
 3. [IMF实例下载](https://github.com/nickmilo/IMF-v3)
 4. IMF由obsidian的Discord群管理员Nick Milo开发 by Silver
 5. [[202008281634IMF核心是MOC by姚]]
+
+IMF笔记法（别称LYT Kit）可以作为obsidian的笔记模板
+IMF由obsidian的Discord群管理员Nick Milo提出（具体地址：https://forum.obsidian.md/t/lyt-kit-now-downloadable/390，ob演示地址：https://publish.obsidian.md/lyt-kit/_START+HERE ），如果不方便访问，我上传了一份到蓝奏云（https://wws.lanzous.com/i3VCGjflm9g ）和群文件中。
+另外该作者也建立了一个网站（https://www.linkingyourthinking.com/lyt-kit ）和一个youtube频道（https://www.youtube.com/channel/UC85D7ERwhke7wVqskV_DZUA/featured ）
