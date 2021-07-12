@@ -1,4 +1,4 @@
-[[01.02 ob使用心得]]
+[[obsidian使用心得（MOC）]]
 Hi Everyone, I have some great news! I am a PhD candidate in the study of religion of the ancient Mediterranean world, integrating other disciplines like sociology, anthropology, ethnography, etc. I used Obsidian for a brand new research project that turned into a full-length article publication at the top journal of my field! It took me only 3 months from start to finish thanks to Obsidian (most research articles take about 2 years in my field). I'm seriously debating if I should include Obsidian in my acknowledgements lol
 
 Certainly! If you would like more information, then just let me know. Here is a rough outline on how Obsidian made the process much more efficient and effective:
