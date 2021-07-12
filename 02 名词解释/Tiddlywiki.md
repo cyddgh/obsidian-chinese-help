@@ -1,1 +1,1 @@
-[[00.11 obsidian爱好者QQ群]]群文件中有群友分享的Tiddlywiki模板
+[[爱好者QQ群]]群文件中有群友分享的Tiddlywiki模板

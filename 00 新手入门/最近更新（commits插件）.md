@@ -5,4 +5,3 @@ divheight=300
 divalign=right
 ```
 
-查看快照
