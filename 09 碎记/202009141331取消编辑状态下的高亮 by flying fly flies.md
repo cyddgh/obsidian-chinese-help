@@ -1,4 +1,4 @@
-[[flying fly flies]] [[css]]
+[[flying fly flies]] [[CSS]]
 取消编辑状态下的高亮
 ```
 /*focus模式，高亮取消*/

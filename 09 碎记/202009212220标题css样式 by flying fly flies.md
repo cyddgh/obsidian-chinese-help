@@ -1,4 +1,4 @@
-[[flying fly flies]] [[css]]
+[[flying fly flies]] [[CSS]]
 ```
 h1::before
 {

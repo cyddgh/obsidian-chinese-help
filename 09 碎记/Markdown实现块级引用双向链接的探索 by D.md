@@ -5,7 +5,7 @@
 
 Markdown 实现块级引用双向链接的探索 
 作者[[D]]，[原文链接](https://hacpai.com/article/1597226949061?tdsourcetag=s_pctim_aiomsg)
-这属于[[00.01 新手入门的高阶内容]]
+
 
 双向链接
 ----
