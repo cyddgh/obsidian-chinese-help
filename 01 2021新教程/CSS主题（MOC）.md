@@ -21,4 +21,5 @@ from:
 - [[Blue Topaz(蓝色托帕石)]]
 - [[Cybertron（赛博朋克）]]：更赛博朋克的可能是[[Ono-Sendai_obsdn（赛博朋克）]]
 - [[minimal（极简主题）]]
+- [[california coast（加州海岸）]]
 - [[California Coast Mod（California Coast 魔改版）]]
