@@ -5,7 +5,10 @@ aliases: [IMF笔记法,LYT]
 tags: []
 from: 
 ---
+隶属于[[LYT笔记法（MOC）]]
+
 IMF笔记法现在已经改名LYT
+
 
 
 ---

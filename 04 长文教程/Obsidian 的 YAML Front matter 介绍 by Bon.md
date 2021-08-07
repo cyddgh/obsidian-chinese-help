@@ -5,6 +5,7 @@ aliases: []
 tags: []
 from: 
 ---
+[[YAML（MOC）]]
 本文经过[[Boninall]]授权，转载于此。原文链接： https://zhuanlan.zhihu.com/p/370113792 。
 # 前言
 
