@@ -20,4 +20,4 @@ from:
 
 [[如何用Obsidian图谱构建你的知识网络 by 宋爽 From Struggle with me]]
 [[一起看看Linan是怎么在Obsidian里记学术笔记和做日程管理的 by Linan From Struggle with me]]
-[[Obsidian：目前我们眼中最美最好用的免费笔记/知识管理软件 by Struggle with me]]
+[[obsidian免费笔记知识管理软件(题目有缩写) by Struggle with me]]

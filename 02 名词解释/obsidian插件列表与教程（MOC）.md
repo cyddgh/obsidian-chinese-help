@@ -27,15 +27,20 @@ from:
 [[Activity loggger]]
 [[Admonition插件]]
 - [[Obsidian 插件之 Admonition by Bon]]
+- [[Admonition：生来多彩 By LillianWho]]
 
 [[Advanced Tables（表格输入插件）]]
-[[Advanced uri]]
 
+[[Advanced uri]]
+- [[Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀]]
+
+#### B
+[[budget wysiwyg（插件）]]：[[魔改 budget-wysiwyg 插件 by  Borber]]
 
 
 #### C
 
-[[Citation插件]]：近乎等于[[使用ob进行论文阅读]]
+[[Citation插件]]：近乎等于[[使用ob进行论文阅读与科研（MOC）]]
 - [[zotero-zotfile-mdnotes-obsidian-dataview-workflow by Cat]]
 - [[zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸]]
 
@@ -50,6 +55,7 @@ from:
 - [[Obsidian 插件之 Dataview by Bon]]
 - [[210604_111749 dataview入门教程 by 无名]]
 - [[obsidian增强展示（dataview插件介绍） by 软达通]]
+- [[obsidian插件之dataview入门 by  Lillian]]
 
 
 [[Dice Roller]]：[[Obsidian 插件之 Dice Roller by Bon]]
@@ -81,7 +87,8 @@ from:
 
 #### J
 [[Juggl（图谱插件）]]
-
+#### L
+[[Longform（长文写作插件）]]
 #### M
 
 
@@ -102,10 +109,12 @@ from:
 - [[QuickAdd插件介绍2（Capture Choice） by 软通达]]
 - [[Obsidian 插件之 QuickAdd by Bon]]
 - [[使用QucikAdd便捷创建日记 by Borber]]
+- [[QuickAdd 提取表格列 by Borber]]
 
 #### R
 [[Recent Files（查看最近文档插件）]]
 [[Remember cursor position （记住鼠标位置插件）]]
+[[Readwise（稍后阅读插件）]]
 
 
 #### S

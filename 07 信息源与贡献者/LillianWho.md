@@ -10,4 +10,4 @@ from:
 [[Obsidian 入门：从第一个文档开始 by LillianWho]]
 [[Obsidian 新手系列之你不可不知的插件 by LillianWho]]
 [[Obsidian是什么以及它能用来做什么 by LillianWho]]
-
+[[Admonition：生来多彩 By LillianWho]]

@@ -30,3 +30,4 @@ from:
 # 可供参考的材料
 - [[我的 Obsidian 笔记跨设备同步方案 by einverne]]
 - [[Obsidian 多端同步简明指南 by 不隔山]]
+- [[通过webdav同步OBsidian资料库 by Azlith]]

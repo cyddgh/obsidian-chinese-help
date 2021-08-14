@@ -10,3 +10,6 @@ from:
 [[Syncthing中转服务器 by 淳帅二代]]
 
 [[Syncthing忽略模式 by 淳帅二代]]
+
+[[Syncthing P2P文件同步工具 by 寒三石]]
+[[Syncthing的安装与使用 From liangqihui]]
