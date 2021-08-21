@@ -1,10 +1,11 @@
 ---
 title: 
 uid: 202107141823
-aliases: []
+aliases: [LillianWho]
 tags: []
 from: 
 ---
+订阅号：莉莉安备忘录
 少数派账号： [LillianWho 的动态 - 少数派 (sspai.com)](https://sspai.com/u/4b8zstxp/updates)
 
 [[Obsidian 入门：从第一个文档开始 by LillianWho]]

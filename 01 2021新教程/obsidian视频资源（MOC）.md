@@ -21,3 +21,4 @@ from:
 [[如何用Obsidian图谱构建你的知识网络 by 宋爽 From Struggle with me]]
 [[一起看看Linan是怎么在Obsidian里记学术笔记和做日程管理的 by Linan From Struggle with me]]
 [[obsidian免费笔记知识管理软件(题目有缩写) by Struggle with me]]
+20210814，[[我是如何使用Obsidian写作的 by 即凉]]，讨论了写作和索引

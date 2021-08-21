@@ -12,3 +12,5 @@ ob官方中文帮助文档： https://publish.obsidian.md/help-zh/
 
 ob官方英文帮助文档： https://help.obsidian.md/Index
 LYT Kit： https://publish.obsidian.md/lyt-kit
+
+英语字典： https://publish.obsidian.md/rogets/Vocabulary/note

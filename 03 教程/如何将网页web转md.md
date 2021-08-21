@@ -13,5 +13,5 @@ Evan Lee(873999785)  15:36:33
 我用 web clipper 先把 网页剪藏导出为markdown，然后再typora中编辑，并通过 typora和picgo配合将图片上传图床并替换文档中的图片链接，最后再复制到 obsidian 中手动对关键词进行 [[]] 关联
 
 
-[[和obsidian连用的软件]]
+[[和obsidian连用的软件（MOC）]]
 [[202009131059网页转md by ABC]]

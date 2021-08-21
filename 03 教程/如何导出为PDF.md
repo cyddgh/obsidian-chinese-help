@@ -8,7 +8,7 @@ obsidian增加了PDF导出功能，不用再借助第三方了。方法：更多
 ---
 
 
-[[和obsidian连用的软件]]
+[[和obsidian连用的软件（MOC）]]
 
 # 石墨文档法（md中没有图片可用）
 1.登陆石墨文档：https://shimo.im/desktop

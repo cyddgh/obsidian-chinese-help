@@ -8,4 +8,4 @@
 
 
 
-[[和obsidian连用的软件]]
+[[和obsidian连用的软件（MOC）]]
