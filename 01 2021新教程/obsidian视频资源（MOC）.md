@@ -13,6 +13,8 @@ from:
 6. [[关于笔记方法的视频资源]]
 7. [[Struggle with me]]：中文up主
 
+20200903，[[Obsidian（黑曜石）软件基础操作教程 by 蚕子]]
+
 
 
 - [Zettelkasten Work in Obsidian for Research](https://www.youtube.com/watch?v=rNMMwaKgz18)

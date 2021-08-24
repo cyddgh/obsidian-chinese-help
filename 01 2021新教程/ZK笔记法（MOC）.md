@@ -1,10 +1,24 @@
+---
+title: 
+uid: 202108221620
+aliases: []
+tags: []
+from: 
+---
+#### 快速入门
 https://zettelkasten.de/introduction/
 Zettelkasten方法简介
 编译自：Introduction to the Zettelkasten Method
 
+要系统入门还是推荐阅读[[How to take smart notes]]，并且目前也有了[[卡片笔记写作法（How to take smart notes 中文版）]]
 
-Zettelkasten漫谈 by 开劫
-https://mp.weixin.qq.com/mp/appmsgalbum?__biz=Mzg4MjAwNTUwNw==&action=getalbum&album_id=1448541657456295937&scene=173&from_msgid=2247484083&from_itemidx=1&count=10#wechat_redirect&scene=0&subscene=90&sessionid=1606652573&enterid=1606653138
+#### 讨论
+[[卢曼：与卡片盒交流（翻译） by 雪小豹说]]
+[[对zk笔记法的理解 by SIN]]
+[[Zettelkasten漫谈 by 开劫]]
+[[佐藤大的书 by 风了]]
+也有一些文章进行了反思，[[对知识卡片的反思]]
 
-[[对zk笔记法的讨论]]
+#### ob与zk法
+[[Obsidian与卢曼卡片盒对笔记的优化 by Garrett]]
 

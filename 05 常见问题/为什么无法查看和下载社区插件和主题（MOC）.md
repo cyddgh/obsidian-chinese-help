@@ -10,7 +10,11 @@ from:
 
 最新的解决方法见[[解决obsidian插件与主题无法加载的问题 by 软通达]]
 此外还有一种方法[[使用Quicker更新和下载ob插件 by Borber]]
-同时[[宏沉一笑]]手动下载ob插件后，上传到了gitee（国内访问友好），可见[[obsidian-plugin in gitee by 宏沉一笑]]
+同时[[宏沉一笑]]手动下载ob插件后，上传到了gitee（国内访问友好），可见[[obsidian-plugin in gitee by 宏沉一笑]]。
+
+[[ob插件全列表]]
+
+
 
 ---
 旧版

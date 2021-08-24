@@ -6,11 +6,13 @@ tags: []
 from: 
 ---
 
-在ob软件内安装插件时，因为网络原因可能无法安装，见[[为什么无法查看和下载社区插件和主题]]。
+在ob软件内安装插件时，因为网络原因可能无法安装，见[[为什么无法查看和下载社区插件和主题（MOC）]]。
 安装插件后，因为插件原因、ob版本原因，可能无法加载插件，见[[为什么无法加载插件（Failed to load plugin）]]。
 更多问题可以参考官方帮助中[[第三方插件]]一节。
 
 同级别的可能还有[[目的驱动的分类（MOC）]]
+
+本卡片主要列举有教程的插件，如果要看ob的全部插件，请见[[ob插件全列表]]。
 
 
 ### 核心插件
@@ -20,10 +22,11 @@ from:
 ### 第3方插件
 
 #### 综合推荐
-[[Obsidian 插件推荐 by Bon]]
-[[这十多个插件，大幅度改善你的 Obsidian 编辑体验 by 柯帕]]
-[[Obsidian 插件介绍篇(一) by 一只小胖子]]
-[[Obsidian 插件介绍篇(二) by 一只小胖子]]
+- [[Obsidian 插件推荐 by Bon]]
+- [[这十多个插件，大幅度改善你的 Obsidian 编辑体验 by 柯帕]]
+- [[Obsidian 插件介绍篇(一) by 一只小胖子]]
+- [[Obsidian 插件介绍篇(二) by 一只小胖子]]
+
 #### A
 [[Activity loggger]]
 
@@ -74,12 +77,17 @@ from:
 #### E
 [[Encrypt（加密插件）]]
 
-[[Excalidraw]]：[[Obsidian 插件之 Excalidraw by Bon]]
+[[Excalidraw插件]]：[[Obsidian 插件之 Excalidraw by Bon]]
+
+[[Enhancing mindmap（思维导图插件）]]：[[在OB中绘制思维导图（Enhancing mindmap插件介绍） by 软通达]]
+
 
 #### F
-[[Find unlinked files（寻找孤立文件）]]：[[寻找孤立文件（Find unlinked files插件介绍）by 软通达]]
+[[Find unlinked files（寻找孤立文件）]]
+- [[寻找孤立文件（Find unlinked files插件介绍）by 软通达]]
 
 [[Flashcard（间隔复习插件）]]
+- [[让有效学习更简单！Markdown汇出到Anki_使用Flashcards外挂 by 简睿]]
 
 
 #### L
@@ -113,17 +121,28 @@ from:
 
 [[Markdown Formatting Assistant（md格式插件）]]：[[在obsidian中快速输入markdown格式（Markdown Formatting Assistant插件介绍）by 软达通]]
 
-[[mark mind（思维导图插件）]]
+[[Markdown prettify（md格式优化插件）]]
+
+[[Mark mind（思维导图插件）]]
 
 
 #### N
-[[Note refacotor插件]]：[[Obsidian 笔记整理及TOC索引 by 一只小胖子]]
+[[Note refacotor插件]]：
+- [[Obsidian 笔记整理及TOC索引 by 一只小胖子]]
+- [[如何使用OB，在几分钟内，将几万字的PDF，转化成我们自己的知识点关系图谱 by Johnny学]]
 
 
 #### O
 [[Obsidian Git （版本控制插件）]]：[[ obsidian和Git连用实现版本控制（obsidian Git插件介绍） by 软通达]]
 
+[[Obsidian to Anki（间隔复习插件）]]
+
 [[oz's image in editor（所见即所得插件）]]： [[图片所见即所得（oz's image in editor插件介绍） by 软通达]]
+
+
+#### P
+[[PDF to Markdown]]：[[如何使用OB，在几分钟内，将几万字的PDF，转化成我们自己的知识点关系图谱 by Johnny学]]
+
 
 
 ####  Q
@@ -140,6 +159,8 @@ from:
 
 
 #### R
+[[Recall（间隔复习插件）]]
+
 [[Recent Files（查看最近文档插件）]]
 
 [[Remember cursor position （记住鼠标位置插件）]]
@@ -149,6 +170,8 @@ from:
 
 #### S
 [[Spell checking]]
+
+[[Spaced repetition（间隔复习插件）]]
 
 
 #### T

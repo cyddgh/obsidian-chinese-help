@@ -27,7 +27,7 @@ Github地址： https://github.com/ozntel/oz-image-in-editor-obsidian
 1. 宽X长: `![100x100](image.png)`
 2. 宽: `![300](image.png)`
 
-另外也能支持[[Excalidraw]]、pdf、iFrame，具体请见英文说明。
+另外也能支持[[Excalidraw插件]]、pdf、iFrame，具体请见英文说明。
 
 
 # ob中增强编辑的插件
