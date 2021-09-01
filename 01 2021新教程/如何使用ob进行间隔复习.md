@@ -12,6 +12,8 @@ from:
 - [[Recall（间隔复习插件）]]
 
 相关的文章
+[[Obsidian 与 Anki 联用初探 by Bon]]
+[[Obsidian 基于插件的增量阅读初探 by Bon]]
 [[如何与anki连用]]
 [[让有效学习更简单！Markdown汇出到Anki_使用Flashcards外挂 by 简睿]]
 [[Obsidian与SuperMemo联用 by 一只小胖子]]

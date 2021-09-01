@@ -6,7 +6,6 @@ tags: []
 from: 
 ---
 
-
 # 什么是 Markdown?
 
 <br>
@@ -70,6 +69,7 @@ from:
 <br>
 
 ### 1.2 目录
+
 
 - **目录的 格式：**
   - 在文档的顶部 输入 **`[toc]`** ，会根据 **标题** 自动生成目录  ( **Table of Content** )
@@ -338,6 +338,9 @@ __这还是一段粗体中*包含斜体*的文字__
   - 输入文本内容后，敲击 **<kbd>Enter</kbd>** 自动补全格式，并进入 **下个** 无序列表
   - 若需要在同个列表内，增加**换行**显示的内容 (**但不进入下个列表**)
     敲击 **<kbd>Shift</kbd>** + **<kbd>Enter</kbd>** ，即可另起一行输入文本
+- **补充：**
+	- 在**Obsidian**中，按下 **<kbd>Ctrl</kbd>** + **<kbd>Enter</kbd>**
+	- 即可快速生成一个无序列表
 
 ```markdown
 - 这是第1个无序列表 <!-- (Enter) -->
@@ -473,7 +476,7 @@ __这还是一段粗体中*包含斜体*的文字__
 
 - **补充：**
 	在 **Obsidian** 中，引用的退格是不太一样的
-- Obsidian 中，如果想让已经缩进的引用 **退回一层**
+- **Obsidian **中，如果想让已经缩进的引用 **退回一层**
 	- 得使用 **`Shift`** + **`Enter`** ，配合方向键，在多个  **`>`**  之间灵活断行
 		并在下一行 根据需要 选择性补充 **`>`**
 - 这个用文字比较难以描述，这里选择用2个带键位的 **Gif图** 来描述   
@@ -560,6 +563,20 @@ __这还是一段粗体中*包含斜体*的文字__
 
 2. 第一级 有序列表3
 
+#### 4.4.5 Obsidian 的一些缩退问题
+- **Obsidian** 在列表首行使用缩进的时候，后续的列表会出现一些问题
+	- `Tab` 和 `Shift + tab`  会无法 缩进 退格
+		- 可以使用 `Ctrl + ]` 与 `Ctrl + [`  来解决问题
+
+```markdown
+- - 这是第一段就被缩进的列表
+	- 这是第二段被再次缩进的列表  <!-- 这里需按两次 Ctrl + ] ,Tab键是无效的 -->
+  - 这是第三段列表  <!-- Ctrl + [ -->
+```
+
+- - 这是第一段就被缩进的列表
+		- 这是第二段被再次缩进的列表
+	- 这是第三段列表
 
 <br><br>
 
@@ -621,7 +638,7 @@ __这还是一段粗体中*包含斜体*的文字__
 
     - **`![[ 图片 ]]`** 
       - 本质是为图片建了一个新的MD文件，用 **<kbd>!</kbd>** 使它可见
-      - Obsidian的图片设置大小是用 <kbd>|</kbd> 分隔后面跟宽度数值，单位是px。
+      - **Obsidian**的图片设置大小是用 <kbd>|</kbd> 分隔后面跟宽度数值，单位是px。
         设置好宽度，高度会自动 **等比例调整**
         - **`![[图片名|宽度数值]]`**
 
@@ -772,6 +789,36 @@ __这还是一段粗体中*包含斜体*的文字__
 	background-image: linear-gradient(black 33.3%,red 33.3%, red 66.6%, yellow 66.6%, yellow);
 }	
 ```
+
+下面是JavaScript代码块
+
+```js
+    // 定义一个30个整数的数组，按顺序分别赋予从2开始的偶数；然后按顺序每五个数求出一个平均值，放在另一个数组中并输出。试编程
+    var arr = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60]
+    var newarr = [];
+    for (var i = 0, count = 0, sum = 0, len = arr.length; i < len; i++) {
+        sum += arr.shift();
+        count++;
+        if (count % 5 === 0) {
+            newarr.push(sum / 5);
+            sum =  0;
+        }
+    }
+    console.log(newarr);
+
+    var arr = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60]
+    var newarr = [];
+    for (var i = 0, len = arr.length; i < len / 5; i++) {
+        var subarr = arr.splice(0, 5)
+        for (var j = 0, sum = 0; j < subarr.length; j++) {
+            sum += subarr[j];
+        }
+        newarr.push(sum / 5);
+    }
+    console.log(newarr);
+```
+
+
 下面是Python代码块
 
 ```python
@@ -824,6 +871,32 @@ print "Good bye!"
 }	
 ```
 
+```js
+    // 定义一个30个整数的数组，按顺序分别赋予从2开始的偶数；然后按顺序每五个数求出一个平均值，放在另一个数组中并输出。试编程
+    var arr = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60]
+    var newarr = [];
+    for (var i = 0, count = 0, sum = 0, len = arr.length; i < len; i++) {
+        sum += arr.shift();
+        count++;
+        if (count % 5 === 0) {
+            newarr.push(sum / 5);
+            sum =  0;
+        }
+    }
+    console.log(newarr);
+
+    var arr = [2, 4, 6, 8, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 50, 52, 54, 56, 58, 60]
+    var newarr = [];
+    for (var i = 0, len = arr.length; i < len / 5; i++) {
+        var subarr = arr.splice(0, 5)
+        for (var j = 0, sum = 0; j < subarr.length; j++) {
+            sum += subarr[j];
+        }
+        newarr.push(sum / 5);
+    }
+    console.log(newarr);
+```
+
 
 ```python
 #!/usr/bin/python
@@ -859,9 +932,10 @@ print "Good bye!"
        - 部分编辑器，在 中括号内 输入**任意字符**都可以打 **`√`**   ( 例如 **Obsidian** )
 - **补充：**
   - 大部分 MD编辑器  支持输入第一个任务列表后，按下 <kbd>Enter</kbd> 进入下一行会 **自动补全待办格式**
+  - 在**Obsidian**中，连续输入**两次** `Ctrl + Enter`  ，即可生成一个待办列表
+    - 再输入一次 `Ctrl + Enter`  ，会在待办列表 打 **`√`**
 
-
-- 格式：
+- **格式：**
 ```markdown
 - [ ] 待办任务列表1
 - [ ] 待办任务列表2
@@ -1059,7 +1133,7 @@ print "Good bye!"
   - 只需要在上面示例的基础上，为里面的文本内容加上 **加粗标识符**
     - **格式：** `<font color=teal>**这是一段加粗的水鸭色文本**</font>`
     - **效果：**  <font color=teal>**这是一段加粗的水鸭色文本**</font>
-	- 在部分编辑器中(例如Obsidian)，MD与HTML的混搭会导致 **样式失效** ，可以使用纯HTML标记
+	- 在部分编辑器中(例如**Obsidian**)，MD与HTML的混搭会导致 **样式失效** ，可以使用纯HTML标记
 		-  **格式：** `<strong style="color:teal;">这是一段加粗的水鸭色文本</strong>`   (标记略复杂，不是很推荐)
 		-  **效果：** <strong style="color:teal;">这是一段加粗的水鸭色文本</strong>
 
@@ -1089,6 +1163,11 @@ print "Good bye!"
   - **格式：** **`x^2^`**
   - **效果：** x^2^   
 - **Obsidian** 没效果的，可以用后面会讲的 **Latex**
+- 或者，也可以使用 **HTML标记**
+	- `<sup>这里是上标内容</sup>`
+	- `X<sup>2</sup>`
+- **效果：**
+	- **X<sup>2</sup>**
 
 <br>
 
@@ -1098,6 +1177,11 @@ print "Good bye!"
   - **格式：** **`H~2~O`**
   - **效果：** H~2~O
 - **Obsidian** 没效果的，可以用后面会讲的 **Latex**
+- 或者，也可以使用 **HTML标记**
+	- `<sub>这里是下标内容</sub>`
+	- `H<sub>2</sub>O`
+- **效果：**
+	- **H<sub>2</sub>O**
 
 <br>
 
@@ -1718,50 +1802,30 @@ sequenceDiagram
 
 ````markdown
 ```mermaid
-%% 语法示例
-        gantt
-        dateFormat  YYYY-MM-DD
-        title 软件开发甘特图
-        section 设计
-        需求                      :done,    des1, 2014-01-06,2014-01-08
-        原型                      :active,  des2, 2014-01-09, 3d
-        UI设计                     :         des3, after des2, 5d
-    未来任务                     :         des4, after des3, 5d
-        section 开发
-        学习准备理解需求                      :crit, done, 2014-01-06,24h
-        设计框架                             :crit, done, after des2, 2d
-        开发                                 :crit, active, 3d
-        未来任务                              :crit, 5d
-        耍                                   :2d
-        section 测试
-        功能测试                              :active, a1, after des3, 3d
-        压力测试                               :after a1  , 20h
-        测试报告                               : 48h
+gantt
+    title A Gantt Diagram
+    dateFormat  YYYY-MM-DD
+    section Section
+    A task           :a1, 2014-01-01, 30d
+    Another task     :after a1  , 20d
+    section Another
+    Task in sec      :2014-01-12  , 12d
+    another task      : 24d
 ```
 ````
 
-- **渲染：**  (Obsidian显示不了的，可在 Typora 里查看效果)
+- **渲染：** 
 
 ```mermaid
-%% 语法示例
-        gantt
-        dateFormat  YYYY-MM-DD
-        title 软件开发甘特图
-        section 设计
-        需求                      :done,    des1, 2014-01-06,2014-01-08
-        原型                      :active,  des2, 2014-01-09, 3d
-        UI设计                     :         des3, after des2, 5d
-    未来任务                     :         des4, after des3, 5d
-        section 开发
-        学习准备理解需求                      :crit, done, 2014-01-06,24h
-        设计框架                             :crit, done, after des2, 2d
-        开发                                 :crit, active, 3d
-        未来任务                              :crit, 5d
-        耍                                   :2d
-        section 测试
-        功能测试                              :active, a1, after des3, 3d
-        压力测试                               :after a1  , 20h
-        测试报告                               : 48h
+gantt
+    title A Gantt Diagram
+    dateFormat  YYYY-MM-DD
+    section Section
+    A task           :a1, 2014-01-01, 30d
+    Another task     :after a1  , 20d
+    section Another
+    Task in sec      :2014-01-12  , 12d
+    another task      : 24d
 ```
 
 <!-- 变量区域 -->

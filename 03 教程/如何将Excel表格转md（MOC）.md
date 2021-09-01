@@ -5,7 +5,7 @@ aliases: []
 tags: []
 from: 
 ---
-隶属于[[ob与表格的那些事]]
+隶属于[[obsidian中的表格操作（MOC）]]
 
 表格转md
 可以使用在线服务

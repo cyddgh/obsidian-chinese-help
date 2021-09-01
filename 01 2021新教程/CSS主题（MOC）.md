@@ -31,4 +31,5 @@ from:
 [[Obsidian自定义样式修改教程 by 韦钧培]]
 
 [[Obsidian 完全指南之 更换主题字体 by 胸毛齐腰]]
-[[可能是 Obsidian 最完美的主题 | 善用佳软 by 胸毛齐腰]]
+[[可能是 Obsidian 最完美的主题 by 胸毛齐腰]]
+[[Obsidian 主题及样式功能 by 一只小胖子]]
