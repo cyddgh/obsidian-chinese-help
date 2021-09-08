@@ -7,4 +7,3 @@ from:
 ---
 https://github.com/readwiseio/obsidian-readwise
 
-[[待研究插件]]

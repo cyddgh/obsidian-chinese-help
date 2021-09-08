@@ -36,6 +36,9 @@ from:
 - [[Obsidian 插件介绍篇(一) by 一只小胖子]]
 - [[Obsidian 插件介绍篇(二) by 一只小胖子]]
 
+#### 单独开发的软件
+[[Obsidian辅助-随手工具-日记、搜索、剪藏、语料（四合一）功能 by 蚕子]]
+
 #### 中文命名插件
 [[多彩预览]]
 - [[Obsidian原创插件-多彩预览 by 蚕子]]
@@ -61,6 +64,7 @@ from:
 [[Alfred插件]]：需要搭配[[Alfred]]（本插件只能运行在Mac上）
 
 [[Annotator（批注插件）]]：基于[[Hypothesis（软件）]]的插件
+- [[PDF和EPUB标注（Annotator插件介绍） by 软通达]]
 
 #### B
 [[Banners题图插件]] 
@@ -79,30 +83,41 @@ from:
 - [[zotero-zotfile-mdnotes-obsidian-dataview-workflow by Cat]]
 - [[zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸]]
 
+[[Clipper（剪藏插件）]]
+
+[[Clear unused images（清除不使用的图片）]]
+- [[清除不使用的图片（Clear unused images插件介绍） by 软通达]]
+
+[[Checklist（TODO插件）]]
+- [[在ob中进行任务管理（Checklist插件介绍）]]
+
+
 [[cMenu（悬浮工具栏插件）]]
-- [[悬浮工具栏 （cMenu插件介绍） by 软达通]]
+- [[悬浮工具栏 （cMenu插件介绍） by 软通达]]
 - [[cMenu解放Markdown语言编辑 by Wyatt]]
+
+
+
+
+[[Customizable Sidebar（自定义侧边栏插件）]]
+- [[自定义侧边栏（Customizable Sidebar插件介绍） by 软通达]]
+
 
 [[Commits插件]]
 
 [[Copy block link插件]]
-
-[[Clipper（剪藏插件）]]
-
-[[Clear unused images（清除不使用的图片）]]：[[清除不使用的图片（Clear unused images插件介绍） by 软达通]]
-
-[[Customizable Sidebar（自定义侧边栏插件）]]
 
 #### D
 [[Dataview插件]]
 - [[Dataview Advanced queries by blacksmithgu]]：这应该是dataview插件作者的自述
 - [[Obsidian 插件之 Dataview by Bon]]
 - [[210604_111749 dataview入门教程 by 无名]]
-- [[obsidian增强展示（dataview插件介绍） by 软达通]]
+- [[obsidian增强展示（dataview插件介绍） by 软通达]]
 - [[obsidian插件之dataview入门 by  Lillian]]
 - [[Dataview翻译 by 寡人]]
 - [[我的Obsidian工作流：模板+QuickAdd+Dataview联动 by Lillian]]
 - [[一个Obsidian深度爱好者首次上手Dataview插件实录 by 八角经刀]]
+- [[Dataview索引神器 by Wyatt]]
 
 [[Day Planners插件]]
 - [[Day Planners——高效日清单 by Wyatt]]
@@ -112,7 +127,9 @@ from:
 
 [[Dictionary（字典插件）]]
 
+
 [[Drag and drop block插件]]
+- [[Drag and drop block by LillianWho]]
 
 [[Dynamic Toc（TOC插件）]]
 
@@ -122,8 +139,11 @@ from:
 [[Excalidraw插件]]
 - [[Obsidian 插件之 Excalidraw by Bon]]
 - [[Excalidraw模板库]]
+- [[Excalidraw在Obsidian上绘画 by Wyatt]]
 
-[[Enhancing mindmap（思维导图插件）]]：[[在OB中绘制思维导图（Enhancing mindmap插件介绍） by 软通达]]
+[[Enhancing mindmap（思维导图插件）]]
+- [在OB中绘制思维导图（Enhancing mindmap插件介绍） by 软通达]]
+- [[Enchancing mindmap实现思维导图自由 by Wyatt]]
 
 
 #### F
@@ -148,7 +168,14 @@ from:
 
 [[Image auto upload Plugin （图片自动上传到图床插件）]]
 
-[[incremental Writing（增量写作插件）]]：[[总结-阅读及笔记工作流程 by 一只小胖子]]
+[[incremental Writing（增量写作插件）]]
+- [[总结-阅读及笔记工作流程 by 一只小胖子]]
+- [[增量写作插件Incremental Writing的使用步骤 by LillianWho]]
+
+[[icon folder（美化插件）]]
+- [[文件夹图标美化icon folder by LillianWho]]
+
+
 
 
 #### J
@@ -159,8 +186,9 @@ from:
 
 #### M
 [[Markdown Formatting Assistant（md格式插件）]]
-- [[在obsidian中快速输入markdown格式（Markdown Formatting Assistant插件介绍）by 软达通]]
-- 
+- [[在obsidian中快速输入markdown格式（Markdown Formatting Assistant插件介绍）by 软通达]]
+
+
 [[Mark mind（思维导图插件）]]
 - [[PDF标注（Mark mind插件） by 软通达]]
 
@@ -182,6 +210,7 @@ from:
 - [[ obsidian和Git连用实现版本控制（obsidian Git插件介绍） by 软通达]]
 
 [[Obsidian to Anki（间隔复习插件）]]
+- [[obsidian的间隔复习（obsidian to anki插件介绍） by Jackiexiao]]
 - [[Obsidian 基于插件的增量阅读初探 by Bon]]
 - [[Obsidian 与 Anki 联用初探 by Bon]]
 - [[教你实操从Obsidian中瞬间创建卡片到Anki by 八角经刀]]
@@ -210,6 +239,7 @@ from:
 - [[一个简单的工作流（快速记录） by Wyatt]]
 - [[教你实操从Obsidian中瞬间创建卡片到Anki by 八角经刀]]
 - [[iOS快捷指令点击桌面图标自动追加笔记内容 by Andy的快乐星球]]
+- [[QuickAdd-表格转换脚本 by Borber]]
 
 [[Quick explorer（面包屑插件）]]
 
@@ -232,8 +262,12 @@ from:
 
 [[Style setting（调整主题插件）]]
 
+[[Supercharged Links插件]]
+- [[Supercharged Links插件 by LillianWho]]
+
 #### T
 [[Tables of contents插件]]：在ob中生成[[TOC]]
+- [[生成目录（Tables of contents插件介绍） by 软通达]]
 
 [[Tabs插件]]：为ob增加标签栏，像Chrome浏览器那样
 
@@ -244,9 +278,11 @@ from:
 - [[obsidian超级模板插件Templater使用效果试玩 by Lillian Who]]
 
 [[Text expand插件]]：
+- Bon应该写过一篇文章，可以去找找
 - [[Obsidian 笔记整理及TOC索引 by 一只小胖子]]
 - [[Obsidian 内容聚合及图谱功能 by 一只小胖子]]
 - [[Obsidian 插件介绍篇(一) by 一只小胖子]]
+- [[一个Obsidian深度爱好者首次上手Text expand插件实录 by 八角经刀]]
 
 [[Title index插件]]
 
@@ -262,8 +298,8 @@ from:
 #### W
 [[Word Splitting for Simplified Chinese in Edit Mode （中文分词插件）]]
 
-[[Wordnet（插件）]]
-
+[[Wordnet（英语学习插件）]]
+- [[英语学习中的查词（Wordnet插件介绍）by 软通达]]
 
 #### Z
 [[ZH增强编辑插件]]

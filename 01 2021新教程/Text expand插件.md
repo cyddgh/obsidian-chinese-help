@@ -7,4 +7,3 @@ from:
 ---
 
 https://github.com/konodyuk/obsidian-text-expander
-[[待研究插件]]

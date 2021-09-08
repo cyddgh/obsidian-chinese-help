@@ -36,5 +36,6 @@ from:
 #### 知乎
 - [[Boninall]]
 - [[一只小胖子]]：有一个“高效时间&知识管理”专栏
-- [[Wyatt]]：有一个“玩转Obsidian的保姆级教程”专栏
+- [[Garrett（Wyatt）]]：有一个“玩转Obsidian的保姆级教程”专栏： https://www.zhihu.com/column/c_1413472005866266624
+- 
 

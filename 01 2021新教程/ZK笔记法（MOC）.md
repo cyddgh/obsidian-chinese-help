@@ -25,3 +25,5 @@ Zettelkasten方法简介
 [[Obsidian与卢曼卡片盒对笔记的优化 by Garrett]]
 
 
+#### 使用其他软件践行zk法
+[[用 Notion 实践卡片盒笔记法 by stevesun]]

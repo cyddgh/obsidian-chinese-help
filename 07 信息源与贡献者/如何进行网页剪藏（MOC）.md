@@ -18,6 +18,7 @@ from:
 - [[MarkDownload（Chrome扩展） by deathau]]
 - [[Clipper（剪藏插件）]]
 - [[Roam highlighter（Chrome扩展）]]:[[玩转 Obsidian 05 如何进行阅读及摘要  by 王掌柜]]
+- [[Pagenote（Chrome扩展）]]：[[使用Pagenote进行网页标注并导出成md by 软通达]]
 
 
 #### 其他方式

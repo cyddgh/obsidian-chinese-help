@@ -21,3 +21,4 @@ from:
 - [[猫老大]]：[[猫老大的小站台]]
 - [[LillianWho（莉莉安）]]：在少数派和自己的微信公众号里有多篇ob的文章，非常适合新手和进阶用户。
 - [[好燃（八角经刀）]]：在B站上有一个专栏八角经刀： https://space.bilibili.com/241033241
+- [[Garrett（Wyatt）]]：有一个“玩转Obsidian的保姆级教程”专栏： https://www.zhihu.com/column/c_1413472005866266624

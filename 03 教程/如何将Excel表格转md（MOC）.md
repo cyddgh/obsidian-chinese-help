@@ -14,3 +14,6 @@ https://markdown-convert.com/zh/tool/table
 
 可以使用插件
 [[ZH增强编辑插件]]
+
+可以参考的文章
+[[QuickAdd-表格转换脚本 by Borber]]

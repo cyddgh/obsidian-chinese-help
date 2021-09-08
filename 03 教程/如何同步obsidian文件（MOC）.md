@@ -30,3 +30,4 @@ iOS系统还能用[[Working copy]]，但我不太了解，但见[[Setting up iOS
 - [[Obsidian 多端同步简明指南 by 不隔山]]
 - [[通过webdav同步OBsidian资料库 by Azlith]]
 - [[Obsidian与Seafile搭建自己的私有笔记 by 小z博客]]:高阶内容
+- [[Obsidian Windows 与安卓端同步 by 承志0827]]

@@ -16,5 +16,8 @@ from:
 [[玩转 Obsidian 04 为什么推荐使用 Obsidian 做知识管理 by 王掌柜]]
 [[玩转 Obsidian 05 如何进行阅读及摘要  by 王掌柜]]
 
-写作
+#### 写作
 [[5步打造个人写作系统 by 即凉]]
+
+#### 科研
+[[My workflow一个文科博士生的资料管理、阅读和笔记系统基于DEVONthink 3，Obsidian by chyixian]]

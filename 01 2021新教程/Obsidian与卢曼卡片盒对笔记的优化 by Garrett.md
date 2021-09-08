@@ -5,7 +5,7 @@ aliases: []
 tags: []
 from: 
 ---
-[[Garrett]]
+[[Garrett（Wyatt）]]
 图文版： https://wws.lanzoui.com/i4QOCt0plxi 
 
 # 通过Obsidian与卢曼卡片盒对笔记优化的心得
