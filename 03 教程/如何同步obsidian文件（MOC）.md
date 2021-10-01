@@ -31,3 +31,5 @@ iOS系统还能用[[Working copy]]，但我不太了解，但见[[Setting up iOS
 - [[通过webdav同步OBsidian资料库 by Azlith]]
 - [[Obsidian与Seafile搭建自己的私有笔记 by 小z博客]]:高阶内容
 - [[Obsidian Windows 与安卓端同步 by 承志0827]]
+- [[自己动手组建可远程实时同步的obsidian by 理行天道]]
+- [[Obsidian 的 Windows 端与 Android 端数据同步 by Alex凉风]]

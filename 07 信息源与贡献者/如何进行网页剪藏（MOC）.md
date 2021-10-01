@@ -5,21 +5,26 @@ aliases: [如何将网页转成md格式]
 tags: []
 from: 
 ---
-剪藏一般指类似[[印象笔记]]Chrome扩展的功能，能将网页图文内容保存到笔记文件中。
+剪藏一般指类似[[印象笔记]]Chrome扩展的功能，能将网页图文内容保存到笔记文件中。下面内容中[[Pagenote（Chrome扩展）]]和[[Hypothesis（软件）]]好像更倾向于网页批注（不是像剪藏那样全部截取，只截取加亮部分）。
 
 #### 使用ob插件
 - [[ob编辑器中自动转换HTML]]
+	- [[obsidian的复制增强功能与网页剪藏 by 软通达]]
 
 #### 使用Chrome扩展
 - [[Cubox]]：最近讨论比较多的软件
-- [[简悦]]：[[使用简悦 + 简悦 · 同步助手 + Obsidian 打造一站式知识管理方案 by Kenshin]]
+- [[简悦]]
+	- [[使用简悦 + 简悦 · 同步助手 + Obsidian 打造一站式知识管理方案 by Kenshin]]
 - [[毛线剪藏]]：请注意目前该插件被chrome提醒可能存在风险（202108312205）。
-- [[markdown-clipper（Chrome扩展） by enrico-kaack]]：[[Obsidian 使用篇一：使用 markdown-clipper 全文保存网页 by einverne]]
+- [[markdown-clipper（Chrome扩展） by enrico-kaack]]
+	- [[Obsidian 使用篇一：使用 markdown-clipper 全文保存网页 by einverne]]
 - [[MarkDownload（Chrome扩展） by deathau]]
 - [[Clipper（剪藏插件）]]
-- [[Roam highlighter（Chrome扩展）]]:[[玩转 Obsidian 05 如何进行阅读及摘要  by 王掌柜]]
-- [[Pagenote（Chrome扩展）]]：[[使用Pagenote进行网页标注并导出成md by 软通达]]
-
+- [[Roam highlighter（Chrome扩展）]]
+	- [[玩转 Obsidian 05 如何进行阅读及摘要  by 王掌柜]]
+- [[Pagenote（Chrome扩展）]]
+	- [[使用Pagenote进行网页标注并导出成md by 软通达]]
+- [[Hypothesis（软件）]]
 
 #### 其他方式
 - [[Obsidian 图片本地化 by Borber]]

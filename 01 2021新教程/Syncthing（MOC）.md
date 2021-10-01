@@ -9,7 +9,10 @@ from:
 
 [[Syncthing中转服务器 by 淳帅二代]]
 
+关于忽略
 [[Syncthing忽略模式 by 淳帅二代]]
+[[使用 Syncthing 忽略模式，用白名单的方式同步指定格式文件 by HaujetZhao]]
+
 
 [[Syncthing P2P文件同步工具 by 寒三石]]
 [[Syncthing的安装与使用 From liangqihui]]

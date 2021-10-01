@@ -16,3 +16,4 @@ from:
 - [[Word Splitting for Simplified Chinese in Edit Mode （中文分词插件）]]
 - [[Obsidian Git （版本控制插件）]]
 - [[ZH增强编辑插件]]
+- [[Image Toolkit插件]]

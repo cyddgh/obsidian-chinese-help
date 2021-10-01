@@ -28,6 +28,10 @@ from:
 [[出链插件]]
 - [[读论文时通过Obsidian中Aliases别名和潜在链接实现笔记推荐 by 八角经刀]]
 
+[[工作区插件]]
+- [[打造自己的工作台 by Wyatt]]
+
+
 ### 第3方插件
 
 #### 综合推荐
@@ -35,6 +39,7 @@ from:
 - [[这十多个插件，大幅度改善你的 Obsidian 编辑体验 by 柯帕]]
 - [[Obsidian 插件介绍篇(一) by 一只小胖子]]
 - [[Obsidian 插件介绍篇(二) by 一只小胖子]]
+- [[一个大学生与Obsidian by Wyatt]]
 
 #### 单独开发的软件
 [[Obsidian辅助-随手工具-日记、搜索、剪藏、语料（四合一）功能 by 蚕子]]
@@ -54,6 +59,7 @@ from:
 - [[Admonition：生来多彩 By LillianWho]]
 - [[Obsidian 笔记整理及TOC索引 by 一只小胖子]]
 - [[Obsidian 内容聚合及图谱功能 by 一只小胖子]]
+- [[OB生产力系列在OB里直接标注PDF by Johnny学]]
 
 [[Advanced Tables（表格输入插件）]]
 
@@ -74,14 +80,17 @@ from:
 
 [[Block reference count插件]]
 
-
+[[Breadcrumbs层级插件]]
+- [[在obsidian中实现笔记层级 (breadcrumbs插件介绍) by 风尘噗噗啊]]
 #### C
 [[Calendar插件]]
 - [[Calendar不只是日历  by Wyatt]]
 
 [[Citation插件]]：近乎等于[[使用ob进行论文阅读与科研（MOC）]]
+- [[ob和zotero连用（Citation插件介绍） by 软通达]]
 - [[zotero-zotfile-mdnotes-obsidian-dataview-workflow by Cat]]
 - [[zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸]]
+- [[Obsidian结合Zotero做读书笔记 by 理行天道]]
 
 [[Clipper（剪藏插件）]]
 
@@ -111,13 +120,17 @@ from:
 [[Dataview插件]]
 - [[Dataview Advanced queries by blacksmithgu]]：这应该是dataview插件作者的自述
 - [[Obsidian 插件之 Dataview by Bon]]
-- [[210604_111749 dataview入门教程 by 无名]]
+- [[dataview入门教程 by 无名]]
 - [[obsidian增强展示（dataview插件介绍） by 软通达]]
 - [[obsidian插件之dataview入门 by  Lillian]]
 - [[Dataview翻译 by 寡人]]
 - [[我的Obsidian工作流：模板+QuickAdd+Dataview联动 by Lillian]]
 - [[一个Obsidian深度爱好者首次上手Dataview插件实录 by 八角经刀]]
 - [[Dataview索引神器 by Wyatt]]
+- [[介绍DataviewJS把Obsidian插件使用的一般过程讲透（一） by 理行天道]]
+- [[介绍DataviewJS把Obsidian插件使用的一般过程讲透（二） by 理行天道]]
+- [[介绍DataviewJS把Obsidian插件使用的一般过程讲透（三） by 理行天道]]
+
 
 [[Day Planners插件]]
 - [[Day Planners——高效日清单 by Wyatt]]
@@ -154,19 +167,15 @@ from:
 - [[让有效学习更简单！Markdown汇出到Anki_使用Flashcards外挂 by 简睿]]
 
 
-#### L
-[[LanguageTool]]
-
-[[Leaflet地图插件]]
-
-[[Longform（长文写作插件）]]
-
 #### I
 [[Icon Swapper（手动添加图标插件）]]：
 - [[Icon-Swapper 手动添加图标支持 by Borber]]
 - [[魔改Icon-Swapper插件 by Borber]]
 
 [[Image auto upload Plugin （图片自动上传到图床插件）]]
+
+[[Image Toolkit插件]]
+- [[图片浏览增强（Image Toolkit插件介绍） by 软通达]]
 
 [[incremental Writing（增量写作插件）]]
 - [[总结-阅读及笔记工作流程 by 一只小胖子]]
@@ -176,13 +185,25 @@ from:
 - [[文件夹图标美化icon folder by LillianWho]]
 
 
-
-
 #### J
 [[Juggl（图谱插件）]]：[[Obsidian 内容聚合及图谱功能 by 一只小胖子]]
 
 [[Journey（途径插件）]]：[[Obsidian 内容聚合及图谱功能 by 一只小胖子]]
 
+
+#### K
+[[kanban（看板插件）]]
+- [[看板插件（Kanba插件介绍）by 软通达]]
+- [[kanban自定义任务流程 by Waytt]]
+- [[在obsidian中如何使用QuickAdd和Kanban插件来管理日程 by 风尘噗噗啊]]
+
+#### L
+[[LanguageTool]]
+
+[[Leaflet地图插件]]
+
+[[Longform（长文写作插件）]]
+- [[Longform插件使用说明选译 by 邙洛山人]] 
 
 #### M
 [[Markdown Formatting Assistant（md格式插件）]]
@@ -214,9 +235,11 @@ from:
 - [[Obsidian 基于插件的增量阅读初探 by Bon]]
 - [[Obsidian 与 Anki 联用初探 by Bon]]
 - [[教你实操从Obsidian中瞬间创建卡片到Anki by 八角经刀]]
+- [[obsidian to anki 插件中的正则表达式是用来干啥的 by 流浪猫阿狸]]
 
 [[oz's image in editor（所见即所得插件）]]
 - [[图片所见即所得（oz's image in editor插件介绍） by 软通达]]
+- [[md格式所见即所得（oz's image in editor插件介绍2） by 软通达]]
 
 
 #### P
@@ -240,8 +263,18 @@ from:
 - [[教你实操从Obsidian中瞬间创建卡片到Anki by 八角经刀]]
 - [[iOS快捷指令点击桌面图标自动追加笔记内容 by Andy的快乐星球]]
 - [[QuickAdd-表格转换脚本 by Borber]]
+- [[QuickAdd全攻略(一)：改變工作流程的超強外掛 by 简睿]]
+- [[QuickAdd全攻略(2)：腳本撰寫與巨集使用要點 by 简睿]]
+- [[从简睿视频总结的quickadd模板小技巧 by Lillian]]
+- [[在obsidian中如何使用QuickAdd和Kanban插件来管理日程 by 风尘噗噗啊]]
+- [[obsidina选择待办事项并自动记录时间(QuickAdd 和 Toggl插件介绍) by 风尘噗噗啊]]
 
 [[Quick explorer（面包屑插件）]]
+- [[Quick explorer高效利用有限空间 by Wyatt]]
+
+[[Python lab（python插件）]]
+- [[ob中运行python（Python lab插件介绍）]]
+
 
 #### R
 [[Recall（间隔复习插件）]]
@@ -287,6 +320,9 @@ from:
 [[Title index插件]]
 
 [[Tracker插件]]
+
+[[Toggl插件]]
+-  [[obsidina选择待办事项并自动记录时间(QuickAdd 和 Toggl插件介绍) by 风尘噗噗啊]]
 
 
 #### V

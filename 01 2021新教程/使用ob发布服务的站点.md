@@ -21,3 +21,7 @@ ob官方英文帮助文档： https://help.obsidian.md/Index
 LYT Kit： https://publish.obsidian.md/lyt-kit
 
 英语字典： https://publish.obsidian.md/rogets/Vocabulary/note
+
+Joschua's Garden: https://joschuasgarden.com/%E2%9C%8C%EF%B8%8F+Welcome (这个界面很漂亮，我很中意)
+
+Agora TTRPG wiki： https://publish.obsidian.md/agora/Agora

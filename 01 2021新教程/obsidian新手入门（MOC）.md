@@ -20,6 +20,7 @@ from:
 [[obsidian使用须知]]
 [[简单的问答（Q&A）]]
 [[obsidian使用中常见问题（MOC）]]
+[[ob使用者是怎么看待ob软件（MOC）]]
 
 
 ---
