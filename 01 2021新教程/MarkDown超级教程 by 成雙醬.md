@@ -5,7 +5,9 @@ aliases: []
 tags: []
 from: 
 ---
-最新全文在： https://forum-zh.obsidian.md/t/topic/435
+最新全文在： 
+- https://publish.obsidian.md/csj-obsidian/0+-+Obsidian/Markdown/MarkDown%E8%B6%85%E7%BA%A7%E6%95%99%E7%A8%8B+Obsidian%E7%89%88#%E4%BB%80%E4%B9%88%E6%98%AF+Markdown
+- https://forum-zh.obsidian.md/t/topic/435
 # 什么是 Markdown?
 
 <br>

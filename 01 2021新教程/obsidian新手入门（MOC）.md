@@ -11,6 +11,8 @@ from:
 [[Obsidian（黑曜石）软件基础操作教程 by 蚕子]]
 [[Obsidian 入门：从第一个文档开始 by LillianWho]]
 [[Obsidian 优质中文内容合集 by Lillian]]
+[[obsidian新手不完全指南 by windily]]
+[[我的Obsidian入门之旅 by 二丫讲梵]]
 
 如果你希望全面了解obsidian，建议先行阅读obsidian帮助文档。目前帮助文档已有中文，请见[[ob官方帮助文档（MOC）]]。
 

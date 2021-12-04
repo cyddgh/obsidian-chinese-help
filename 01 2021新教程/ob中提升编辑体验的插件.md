@@ -5,6 +5,8 @@ aliases: []
 tags: []
 from: 
 ---
+可以参考的
+[[常用 Obsidian 处理中文长文？试试这些这些大幅提升体验的插件和代码片段 by 马自立]]
 
 目前增强obsidian编辑体验的插件有：
 - [[oz's image in editor（所见即所得插件）]]

@@ -1,3 +1,10 @@
+---
+title: 
+uid: 202112021028
+aliases: []
+tags: []
+from: 
+---
 1. 不用去研究obsidian主题和css
 2. 不要往obsidian里面放图片
 3. 不要去想如何调整文字的大小和颜色

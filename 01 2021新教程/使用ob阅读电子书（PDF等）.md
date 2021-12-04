@@ -9,3 +9,5 @@ from:
 [[Mark mind（思维导图插件）]]
 
 [[obsidian-annotator VS obsidian-markmind by 风尘噗噗]]
+
+[[Booknote插件]]

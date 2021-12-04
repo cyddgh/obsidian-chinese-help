@@ -31,6 +31,7 @@ from:
 [[工作区插件]]
 - [[打造自己的工作台 by Wyatt]]
 
+[[Slash commands插件介绍 by 软通达]]
 
 ### 第3方插件
 
@@ -63,7 +64,7 @@ from:
 
 [[Advanced Tables（表格输入插件）]]
 
-[[Advanced uri]]
+[[Advanced uri]]：这插件吸收了[[Note uid插件]]
 - [[Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀]]
 - [[iOS快捷指令点击桌面图标自动追加笔记内容 by Andy的快乐星球]]
 
@@ -75,6 +76,7 @@ from:
 #### B
 [[Banners题图插件]] 
 
+[[BetterFn（脚注插件）]]
 [[budget wysiwyg（插件）]]
 - [[魔改 budget-wysiwyg 插件 by  Borber]]
 
@@ -82,7 +84,15 @@ from:
 
 [[Breadcrumbs层级插件]]
 - [[在obsidian中实现笔记层级 (breadcrumbs插件介绍) by 风尘噗噗啊]]
+
+[[Booknote插件]]
+- [[如何安装并使用booknote插件 by Cuman]] 
+- [[PDF、office文档等批注（Booknote插件） by 软通达]]
+
 #### C
+[[calibre（插件）]]
+	[[Calibre配合Obsidian管理和阅读电子书  by 阿狸的blog]]，虽然不是介绍这插件，但原理近乎相同
+
 [[Calendar插件]]
 - [[Calendar不只是日历  by Wyatt]]
 
@@ -115,6 +125,8 @@ from:
 [[Commits插件]]
 
 [[Copy block link插件]]
+
+[[Cryptsidian（加密插件）]]
 
 #### D
 [[Dataview插件]]
@@ -166,6 +178,9 @@ from:
 [[Flashcard（间隔复习插件）]]
 - [[让有效学习更简单！Markdown汇出到Anki_使用Flashcards外挂 by 简睿]]
 
+#### H
+[[Habitica sync（插件）]]
+
 
 #### I
 [[Icon Swapper（手动添加图标插件）]]：
@@ -201,11 +216,16 @@ from:
 [[LanguageTool]]
 
 [[Leaflet地图插件]]
+- [[Leaflet插件说明（中文翻译版） by 宏沉一笑]]
 
 [[Longform（长文写作插件）]]
 - [[Longform插件使用说明选译 by 邙洛山人]] 
 
+[[Livesync（同步插件）]]：高级操作
+
 #### M
+[[Map of content层级插件]]
+
 [[Markdown Formatting Assistant（md格式插件）]]
 - [[在obsidian中快速输入markdown格式（Markdown Formatting Assistant插件介绍）by 软通达]]
 
@@ -240,6 +260,7 @@ from:
 [[oz's image in editor（所见即所得插件）]]
 - [[图片所见即所得（oz's image in editor插件介绍） by 软通达]]
 - [[md格式所见即所得（oz's image in editor插件介绍2） by 软通达]]
+- oz's image in editor插件新增
 
 
 #### P
@@ -285,6 +306,7 @@ from:
 
 [[Readwise（稍后阅读插件）]]：需要搭配[[Readwise软件]]使用
 
+[[Remotely save（同步插件）]]
 
 #### S
 [[Sortable插件]]：可以搭配[[Dataview插件]]
@@ -330,6 +352,9 @@ from:
 
 [[various complements插件]]：[[蚕子]]用来魔改语料库了
 
+[[Vocabulary view插件]]：可以用来做字典
+
+[[Vale（语法检查插件）]]
 
 #### W
 [[Word Splitting for Simplified Chinese in Edit Mode （中文分词插件）]]
