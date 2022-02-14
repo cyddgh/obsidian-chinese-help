@@ -5,11 +5,20 @@ aliases: [workflow]
 tags: []
 from: 
 ---
+
+[[只有经过思考链接才有意义 by 风尘噗噗啊]]
+
+[[还在找完美的笔记软件？不妨先听我说说 by 真不瓤来]]
+
+[[坚持卡片笔记 300 天是怎样的体验？by 吴刚 From 合桃派]]
+
 [[我的Obsidian工作流：模板+QuickAdd+Dataview联动 by Lillian]]
 
 [[总结-阅读及笔记工作流程 by 一只小胖子]]：主要关于电子书阅读
 [[Obsidian 笔记整理及TOC索引 by 一只小胖子]]
 [[实践闭环-Obsidian为中心的-信息-内化-复习  by 一只小胖子]]
+
+
 [[一个简单的工作流（快速记录） by Wyatt]]
  [[读论文时通过Obsidian中Aliases别名和潜在链接实现笔记推荐 by 八角经刀]]
 

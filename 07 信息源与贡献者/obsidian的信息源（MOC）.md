@@ -9,6 +9,8 @@ from:
 
 本文汇聚一些ob的信息源，仅作为记录，对于本教程中所有列举的外部信息源，本人对其信息准确性不予保证，其所发表言论不代表本人立场，仅为记录。
 
+[[ob使用教材（书籍）]]
+
 #### 官方中文论坛
 ob官网中文论坛： https://forum-zh.obsidian.md/
 
@@ -20,6 +22,7 @@ ob官网中文论坛： https://forum-zh.obsidian.md/
 - [[简睿]]：可能有网络访问困难
 - [[Obsidian Roundup（ob圆桌会）]]
 - [[obsidian hub（ob发布站点）]]
+- [[Obsidian插件周刊 by 二丫讲梵]]
 
 #### 微信公众号
 - [[软通达]]

@@ -15,6 +15,10 @@ ob官方中文帮助文档： https://publish.obsidian.md/help-zh/
 
 建筑类网站： https://publish.obsidian.md/fred-lai
 
+善用佳软： https://publish.obsidian.md/xbeta/docsify/README
+
+[[餐巾纸盒子]]
+
 # 英文
 ob官方英文帮助文档： https://help.obsidian.md/Index
 

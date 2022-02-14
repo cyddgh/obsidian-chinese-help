@@ -20,6 +20,8 @@ Zettelkasten方法简介
 也有一些文章进行了反思，[[对知识卡片的反思]]
 
 [[写卡片3年的8条感悟 by 汪爸刀刀]] 
+[[Zettelkasten（卡片盒笔记法）：把笔记变成创意的源泉 from 神译局]]
+·
 
 #### ob与zk法
 [[Obsidian与卢曼卡片盒对笔记的优化 by Garrett]]

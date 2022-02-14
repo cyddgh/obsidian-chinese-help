@@ -5,6 +5,8 @@ aliases: []
 tags: []
 from: 
 ---
+一个更新版本[[本人对obsidian新手的建议（2022版本） by 软通达]]
+
 1. 不用去研究obsidian主题和css
 2. 不要往obsidian里面放图片
 3. 不要去想如何调整文字的大小和颜色

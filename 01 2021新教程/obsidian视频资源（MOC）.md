@@ -24,3 +24,5 @@ from:
 [[一起看看Linan是怎么在Obsidian里记学术笔记和做日程管理的 by Linan From Struggle with me]]
 [[obsidian免费笔记知识管理软件(题目有缩写) by Struggle with me]]
 20210814，[[我是如何使用Obsidian写作的 by 即凉]]，讨论了写作和索引
+
+[[爆肝30天，一站式入门双向链接笔记软件 by 二一的笔记]]

@@ -19,3 +19,4 @@ from:
 - [[Obsidian Git （版本控制插件）]]
 - [[ZH增强编辑插件]]
 - [[Image Toolkit插件]]
+- [[Typewriter Scroll （打字机滚动效果插件）]]

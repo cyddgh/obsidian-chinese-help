@@ -9,3 +9,5 @@ from:
 可以用[[Commits插件]]、[[Activity History插件]]
 [[Tracker插件]]
 [[Activity logger插件]]
+
+[[Daily Stats（每日字数统计插件）]]

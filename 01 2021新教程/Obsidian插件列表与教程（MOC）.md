@@ -1,10 +1,8 @@
 ---
-title: 
 uid: 202107150945
-aliases: []
-tags: []
-from: 
 ---
+
+up:: [[2021年新教程]]
 
 在ob软件内安装插件时，因为网络原因可能无法安装，见[[为什么无法查看和下载社区插件和主题（MOC）]]。
 安装插件后，因为插件原因、ob版本原因，可能无法加载插件，见[[为什么无法加载插件（Failed to load plugin）]]。
@@ -14,13 +12,13 @@ from:
 
 插件的连用形成了工作流，更具有指导意义，可见[[以ob为主的工作流（MOC）]]
 
-本卡片主要列举有教程的插件，如果要看ob的全部插件，请见[[ob插件全列表]]。
+本卡片主要列举有教程的插件，如果要看ob的全部插件，请见[[ob插件全列表]]。也推荐大家去关注[[Obsidian插件周刊 by 二丫讲梵]]，本列表中的一些插件信息我也是从中获得的。
 
 
 ### 核心插件
 [[大纲插件]]
 
-[[日记插件]]
+[[日记插件（Daily Note）]]
 - [[日记好用的核心插件 by Wyatt]]
 
 [[obsidian内置文件恢复（File Recovery功能介绍） by 软通达]]
@@ -30,6 +28,10 @@ from:
 
 [[工作区插件]]
 - [[打造自己的工作台 by Wyatt]]
+
+[[ZK卡片（核心插件）]]
+
+[[模板（核心插件]]
 
 [[Slash commands插件介绍 by 软通达]]
 
@@ -64,7 +66,7 @@ from:
 
 [[Advanced Tables（表格输入插件）]]
 
-[[Advanced uri]]：这插件吸收了[[Note uid插件]]
+[[Advanced uri插件]]：这插件吸收了[[Note uid插件]]
 - [[Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀]]
 - [[iOS快捷指令点击桌面图标自动追加笔记内容 by Andy的快乐星球]]
 
@@ -72,6 +74,11 @@ from:
 
 [[Annotator（批注插件）]]：基于[[Hypothesis（软件）]]的插件
 - [[PDF和EPUB标注（Annotator插件介绍） by 软通达]]
+
+[[auto complete（自动填充插件）]]
+
+[[Auto note mover（自动移动文件位置插件）]]
+[[自动移动文件位置（Auto note mover插件介绍） by 软通达]]
 
 #### B
 [[Banners题图插件]] 
@@ -84,10 +91,14 @@ from:
 
 [[Breadcrumbs层级插件]]
 - [[在obsidian中实现笔记层级 (breadcrumbs插件介绍) by 风尘噗噗啊]]
+- [[Breadcrumbs - Everything you need to know by Obsidian Community Talks]]
+- [[在ob中进行有方向链接（Breadcrumbs面包屑插件介绍）by 软通达]]
+
 
 [[Booknote插件]]
 - [[如何安装并使用booknote插件 by Cuman]] 
 - [[PDF、office文档等批注（Booknote插件） by 软通达]]
+- [[在Obsidian中使用BookNote阅读文档的4个quickadd脚本 by Jason Liang]]
 
 #### C
 [[calibre（插件）]]
@@ -111,6 +122,7 @@ from:
 - [[在ob中进行任务管理（Checklist插件介绍）]]
 
 
+
 [[cMenu（悬浮工具栏插件）]]
 - [[悬浮工具栏 （cMenu插件介绍） by 软通达]]
 - [[cMenu解放Markdown语言编辑 by Wyatt]]
@@ -121,12 +133,16 @@ from:
 [[Customizable Sidebar（自定义侧边栏插件）]]
 - [[自定义侧边栏（Customizable Sidebar插件介绍） by 软通达]]
 
+[[CSV Editor（CSV 编辑插件）]]
 
 [[Commits插件]]
 
 [[Copy block link插件]]
 
+[[Core Search Assistant（搜索增强插件）]]
+
 [[Cryptsidian（加密插件）]]
+
 
 #### D
 [[Dataview插件]]
@@ -134,6 +150,7 @@ from:
 - [[Obsidian 插件之 Dataview by Bon]]
 - [[dataview入门教程 by 无名]]
 - [[obsidian增强展示（dataview插件介绍） by 软通达]]
+	- [[Dataview使用link函数筛选带双链的YAML字段]]
 - [[obsidian插件之dataview入门 by  Lillian]]
 - [[Dataview翻译 by 寡人]]
 - [[我的Obsidian工作流：模板+QuickAdd+Dataview联动 by Lillian]]
@@ -142,10 +159,13 @@ from:
 - [[介绍DataviewJS把Obsidian插件使用的一般过程讲透（一） by 理行天道]]
 - [[介绍DataviewJS把Obsidian插件使用的一般过程讲透（二） by 理行天道]]
 - [[介绍DataviewJS把Obsidian插件使用的一般过程讲透（三） by 理行天道]]
+- [[餐巾纸盒子]]
 
 
 [[Day Planners插件]]
 - [[Day Planners——高效日清单 by Wyatt]]
+
+[[Daily Stats（每日字数统计插件）]]
 
 
 [[Dice Roller]]：[[Obsidian 插件之 Dice Roller by Bon]]
@@ -165,6 +185,7 @@ from:
 - [[Obsidian 插件之 Excalidraw by Bon]]
 - [[Excalidraw模板库]]
 - [[Excalidraw在Obsidian上绘画 by Wyatt]]
+- [[Thinking Maps（利用obsidian-Excalidraw手绘思维导图）]]
 
 [[Enhancing mindmap（思维导图插件）]]
 - [在OB中绘制思维导图（Enhancing mindmap插件介绍） by 软通达]]
@@ -178,8 +199,14 @@ from:
 [[Flashcard（间隔复习插件）]]
 - [[让有效学习更简单！Markdown汇出到Anki_使用Flashcards外挂 by 简睿]]
 
+[[Furigana（注音插件）]]
+
 #### H
 [[Habitica sync（插件）]]
+
+[[Hotkeys for templates（插件）]]
+- [[快捷插入模板（Hotkeys for templates插件介绍）by 软通达]]
+
 
 
 #### I
@@ -222,6 +249,8 @@ from:
 - [[Longform插件使用说明选译 by 邙洛山人]] 
 
 [[Livesync（同步插件）]]：高级操作
+- [[livesync同步插件介绍 by 软通达]]
+- [[不使用第三方软件实现Obsidian多平台实时同步 by YingYue]] 
 
 #### M
 [[Map of content层级插件]]
@@ -229,6 +258,7 @@ from:
 [[Markdown Formatting Assistant（md格式插件）]]
 - [[在obsidian中快速输入markdown格式（Markdown Formatting Assistant插件介绍）by 软通达]]
 
+[[Markdown furigana（注音插件）]]
 
 [[Mark mind（思维导图插件）]]
 - [[PDF标注（Mark mind插件） by 软通达]]
@@ -237,11 +267,19 @@ from:
 
 [[Media Extended]]：实现youtube中的时间轴
 
+[[Memos插件]]
+- [[Memos插件开发者自述 by Bon]]
+
+[[Meld Encrypt（加密插件）]]
+
 [[Mind map（思维导图插件）]]
 
 
 #### N
-[[Note refacotor插件]]：
+[[Natural Language Dates（自然语言日期插件）]]
+- [[快速输入日期（Natural Language Dates插件介绍）by软通达 ]]
+
+[[Note refactor插件]]：
 - [[Obsidian 笔记整理及TOC索引 by 一只小胖子]]
 - [[如何使用OB，在几分钟内，将几万字的PDF，转化成我们自己的知识点关系图谱 by Johnny学]]
 
@@ -268,6 +306,9 @@ from:
 
 [[PDF to Markdown]]：[[如何使用OB，在几分钟内，将几万字的PDF，转化成我们自己的知识点关系图谱 by Johnny学]]
 
+[[Persistent graph（图谱永久化插件）]]
+
+[[pPhrasebank语料库插件]]
 
 ####  Q
 [[Quick Add（模板插件）]]:
@@ -308,12 +349,22 @@ from:
 
 [[Remotely save（同步插件）]]
 
+[[Rss reader(Rss插件)]]
+
+[[Rollover Daily Todos插件]]：将上一天日记中未完成的TODO任务，放到今天日记中。
+
 #### S
+[[Sidekick（自动推荐插件）]]
+
 [[Sortable插件]]：可以搭配[[Dataview插件]]
 
 [[Spell checking]]
 
 [[Spaced repetition（间隔复习插件）]]
+- [[Spaced repetition插件用法说明 by LillianWho]]
+- [[如何使用插件 Spaced Repetition by Johnny学]]
+- [[Spaced repetition的使用经验分享 by 夫君酱 ]]
+
 
 [[Style setting（调整主题插件）]]
 
@@ -328,9 +379,10 @@ from:
 
 [[Tag wrangler（标签修改插件）]]
 
-[[Templater]]:
+[[Templater（模板增强插件）]]:
 - [[202011272145插件Templater by 简睿]]
 - [[obsidian超级模板插件Templater使用效果试玩 by Lillian Who]]
+- [[在ob中通过Templater为新建页添加模板信息 by 软通达]]
 
 [[Text expand插件]]：
 - Bon应该写过一篇文章，可以去找找
@@ -346,6 +398,9 @@ from:
 [[Toggl插件]]
 -  [[obsidina选择待办事项并自动记录时间(QuickAdd 和 Toggl插件介绍) by 风尘噗噗啊]]
 
+[[Todo插件]]：针对每日日记的任务管理增强
+
+[[Typewriter Scroll （打字机滚动效果插件）]]：模拟打字机滚动的效果，
 
 #### V
 [[vantage（可视化多条件搜索插件）]]
