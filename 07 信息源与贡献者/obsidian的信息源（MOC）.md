@@ -27,6 +27,7 @@ ob官网中文论坛： https://forum-zh.obsidian.md/
 #### 微信公众号
 - [[软通达]]
 - [[LillianWho（莉莉安）]]
+- [[维客笔记]]
 
 #### B站
 - [[蚕子]]

@@ -15,6 +15,7 @@ from:
 
 # ob第3方同步插件
 [[Livesync（同步插件）]]
+[[Remotely save（同步插件）]]：[[第三方同步插件（Remotely save介绍） by 软通达]]
 
 # 第3方同步软件
 使用坚果云：[[和obsidian连用的软件（MOC）]]
@@ -28,6 +29,8 @@ from:
 
 文件少，低于300吧，坚果云ok
 我3000的文件，坚果云就不行了
+
+苹果的[[iCloud]]可以用于win上，但目前接到多个反馈说删除数据，或者同步问题。不建议使用。
 
 iOS系统还能用[[Working copy]]，但我不太了解，但见[[Setting up iOS git-based syncing with mobile app (using Working Copy) by rsteele]]
 # 可供参考的材料

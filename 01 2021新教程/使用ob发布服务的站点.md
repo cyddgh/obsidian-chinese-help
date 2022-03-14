@@ -31,3 +31,5 @@ Joschua's Garden: https://joschuasgarden.com/%E2%9C%8C%EF%B8%8F+Welcome (这个�
 Agora TTRPG wiki： https://publish.obsidian.md/agora/Agora
 
 [[obsidian hub（ob发布站点）]]
+
+[[obsidian garden（演示库）by tanepiper]]

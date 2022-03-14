@@ -13,6 +13,7 @@ from:
 
 #### 使用Chrome扩展
 - [[Cubox]]：最近讨论比较多的软件
+	- [[安卓使用termux接收cubox文件并保存到指定obsidian库 by 围城]]
 - [[简悦]]
 	- [[使用简悦 + 简悦 · 同步助手 + Obsidian 打造一站式知识管理方案 by Kenshin]]
 - [[毛线剪藏]]：请注意目前该插件被chrome提醒可能存在风险（202108312205）。
@@ -30,6 +31,7 @@ from:
 - [[Obsidian 图片本地化 by Borber]]
 - [[网址剪藏工具 by 淳帅二代]]：淳帅二代使用python自己制作了工具
 - [[vnote进行网页剪藏]]
+- 
 
 #### 相关文章
 [[玩转 Obsidian 05 如何进行阅读及摘要  by 王掌柜]]

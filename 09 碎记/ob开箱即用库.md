@@ -7,4 +7,12 @@ from:
 ---
 [[obsidian开箱即用库 by 落山鸡]]
 
-[[Ob主页和基本入门库 by cuman]]
+[[开箱即用库（Blue topaz examples）by Cuman]]
+
+[[时间管理的开箱即用库  by EliWimmer]]
+
+[[obsidian garden（演示库）by tanepiper]]
+
+[[我对obsidian演示库和开箱即用库的思考]]
+
+[[Obsidian&Logseq开箱即用库 by  及时春雨]]

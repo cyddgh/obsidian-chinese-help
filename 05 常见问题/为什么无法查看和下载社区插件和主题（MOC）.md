@@ -5,6 +5,11 @@ aliases: [无法安装插件,无法下载插件，无法安装主题，无法下
 tags: []
 from: 
 ---
+国内下载obsidian插件地址（不保证文件安全）：
+John学：https://ob.pory.app/
+宏沉一笑Gitee库：https://gitee.com/whghcyx/obsidian-plugin
+
+
 因为网络问题，可能无法从网络上下载主题和插件，有时即使你看到插件，但也下载不下来，例如下图
 ![](https://gitee.com/cyddgi/picture-store/raw/master/img/20210715093426.png)
 
@@ -15,6 +20,8 @@ from:
 [[ob插件和主题的下载插件]]
 
 [[ob插件全列表]]
+
+
 
 #### 其他视频
 

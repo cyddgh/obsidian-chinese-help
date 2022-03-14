@@ -6,6 +6,8 @@ tags: []
 from: 
 ---
 
+[[把信息交给未来的自己——构建你的第二大脑 by Huang Wei]]
+
 [[只有经过思考链接才有意义 by 风尘噗噗啊]]
 
 [[还在找完美的笔记软件？不妨先听我说说 by 真不瓤来]]
@@ -30,3 +32,5 @@ from:
 
 #### 科研
 [[My workflow一个文科博士生的资料管理、阅读和笔记系统基于DEVONthink 3，Obsidian by chyixian]]
+
+[[PDF阅读笔记工作流的最佳实践 by fishyer]]
