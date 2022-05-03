@@ -6,7 +6,7 @@ tags: []
 from: 
 ---
 # 引言
-最近使用[[Memos插件]]，顺带也用上了obsidian的核心插件中的[[日记插件（Daily Note）]]。因为要常常输入日期，所以找上了[[Natural Language Dates（自然语言日期插件）]]。后续还会慢慢归拢[[增强ob的日记（Daily Note）插件]]。
+最近使用[[Memos插件]]，顺带也用上了obsidian的核心插件中的[[日记插件（Daily Note）]]。因为要常常输入日期，所以找上了[[Natural Language Dates（自然语言日期插件）]]。后续还会慢慢归拢[[增强ob的日记（Daily Note）插件（MOC）]]。
 
 什么是“Natural Language Dates”？我个人简单的理解，就是滴答清单中，当1月1日你在任务栏中输入“明天去看ob教程”时，“明天”两字就自动被识别为“1月2日”。
 

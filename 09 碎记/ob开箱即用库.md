@@ -16,3 +16,7 @@ from:
 [[我对obsidian演示库和开箱即用库的思考]]
 
 [[Obsidian&Logseq开箱即用库 by  及时春雨]]
+
+[[反向高亮模板库和说明视频 by 风尘噗噗啊]]
+
+[[给科研人的开箱即用库 by sheldonxxd]]

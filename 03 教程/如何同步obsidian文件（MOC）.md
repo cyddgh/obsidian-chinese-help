@@ -5,13 +5,14 @@ aliases: []
 tags: []
 from: 
 ---
+[[2022年3月如何同步obsidian文件（阶段性总结）]]
+
 # 官方同步
 可见官方帮助文档：[[Obsidian 同步服务 by ob官方]]
 
 [[obsidian同步服务（设置篇） by 软通达]]
 [[obsidian同步服务（体验篇） by 软通达]]
 这两篇可能有些过时了，最新版本的同步增加了很多功能。但大体意思不变。
-
 
 # ob第3方同步插件
 [[Livesync（同步插件）]]
@@ -31,7 +32,8 @@ from:
 我3000的文件，坚果云就不行了
 
 苹果的[[iCloud]]可以用于win上，但目前接到多个反馈说删除数据，或者同步问题。不建议使用。
-
+但有人提出可以使用[[FreeFileSync]]进行协助可以改善上述问题，[[obsidian好用的icloud同步方案 by 咸的粥]]
+[[obsidian笔记同步保姆级教程 by 有我]]
 iOS系统还能用[[Working copy]]，但我不太了解，但见[[Setting up iOS git-based syncing with mobile app (using Working Copy) by rsteele]]
 # 可供参考的材料
 - [[iOS端obsidian同步的方案 by 软通达]]

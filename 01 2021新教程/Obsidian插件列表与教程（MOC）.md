@@ -78,6 +78,9 @@ up:: [[2021年新教程]]
 - [[Citavi抛砖引玉&教你如何从任何软件瞬间跳转到Obsidian笔记的指定行 By 八角经刀]]
 - [[iOS快捷指令点击桌面图标自动追加笔记内容 by Andy的快乐星球]]
 
+[[AGtable（表格插件）]]
+- [[增强表格（AGtable插件介绍） by 软通达]]
+
 [[Alfred插件]]：需要搭配[[Alfred]]（本插件只能运行在Mac上）
 
 [[AnkiBridge（间隔复习插件）]]
@@ -98,10 +101,16 @@ up:: [[2021年新教程]]
 [[Banners题图插件]] 
 
 [[Bartender插件]]
+- [[文件夹自定义排序（Bartender插件介绍） by 软通达]]
+- [[Bartender(酒保)和Customizable Sidebar介绍 by 简睿]]
+
 
 [[BetterFn（脚注插件）]]
 [[budget wysiwyg（插件）]]
 - [[魔改 budget-wysiwyg 插件 by  Borber]]
+
+[[Bibnotes（Zotero插件）]]
+- [[基于bibnotes插件实现zotero和obsidian联动 by 阿狸的Blog]]
 
 [[Block reference count（计算块引用插件）]]
 
@@ -120,6 +129,9 @@ up:: [[2021年新教程]]
 
 
 #### C
+[[Card view switcher（卡片插件）]]
+
+
 [[calibre（插件）]]
 	[[Calibre配合Obsidian管理和阅读电子书  by 阿狸的blog]]，虽然不是介绍这插件，但原理近乎相同
 
@@ -131,6 +143,7 @@ up:: [[2021年新教程]]
 - [[zotero-zotfile-mdnotes-obsidian-dataview-workflow by Cat]]
 - [[zotero 与 obsidian 配合提高阅读效率 by 流浪猫阿狸]]
 - [[Obsidian结合Zotero做读书笔记 by 理行天道]]
+- [[Zotero与Obsidian交互助力科研 by 维客笔记 ]]
 
 [[Clipper（剪藏插件）]]
 
@@ -151,6 +164,7 @@ up:: [[2021年新教程]]
 
 [[Customizable Sidebar（自定义侧边栏插件）]]
 - [[自定义侧边栏（Customizable Sidebar插件介绍） by 软通达]]
+- [[Bartender(酒保)和Customizable Sidebar介绍 by 简睿]]
 
 [[CSV Editor（CSV 编辑插件）]]
 
@@ -180,6 +194,8 @@ up:: [[2021年新教程]]
 - [[介绍DataviewJS把Obsidian插件使用的一般过程讲透（三） by 理行天道]]
 - [[餐巾纸盒子]]
 - [[基于Quicker动作可视化学习Dataview插件检索语法 by 蚕子]]
+- [[Obsidian-Dataview文档（中文翻译版）  by 性别只有一个字]]
+
 
 
 [[Day Planners插件]]
@@ -187,6 +203,8 @@ up:: [[2021年新教程]]
 
 [[Daily Stats（每日字数统计插件）]]
 
+[[Daily todo pro（日记增强插件）]]
+- [[日记增强插件(todo 管理) 作者自述 by die4passion]]
 
 [[Dice Roller]]：[[Obsidian 插件之 Dice Roller by Bon]]
 
@@ -208,6 +226,8 @@ up:: [[2021年新教程]]
 - [[Excalidraw在Obsidian上绘画 by Wyatt]]
 - [[Thinking Maps（利用obsidian-Excalidraw手绘思维导图）]]
 
+[[Enhancing export（增强导出插件）]]
+
 [[Enhancing mindmap（思维导图插件）]]
 - [在OB中绘制思维导图（Enhancing mindmap插件介绍） by 软通达]]
 - [[Enchancing mindmap实现思维导图自由 by Wyatt]]
@@ -226,6 +246,9 @@ up:: [[2021年新教程]]
 
 [[From Template插件]]
 - [[新手适用的多功能模板外掛：From Template by 简睿]]
+
+[[Floating Toc（悬浮目录插件）]]
+- [[悬浮目录（Floating Toc插件介绍）]]
 
 #### H
 [[Habitica sync（插件）]]
@@ -269,8 +292,14 @@ up:: [[2021年新教程]]
 - [[kanban自定义任务流程 by Waytt]]
 - [[在obsidian中如何使用QuickAdd和Kanban插件来管理日程 by 风尘噗噗啊]]
 
+[[Kity mind（百度脑图插件）]]
+
 #### L
+[[Lapel（md格式插件）]]
+
 [[LanguageTool]]
+
+[[Latex suite（Latex补全插件）]]
 
 [[Leaflet地图插件]]
 - [[Leaflet插件说明（中文翻译版） by 宏沉一笑]]
@@ -281,6 +310,13 @@ up:: [[2021年新教程]]
 [[Livesync（同步插件）]]：高级操作
 - [[livesync同步插件介绍 by 软通达]]
 - [[不使用第三方软件实现Obsidian多平台实时同步 by YingYue]] 
+
+[[List modified（列出修改插件）]]
+
+[[Local REST插件]]
+- [[让 Obsidian local REST API 插件和 Memos 联用起来 by Bon]]
+- [[Local REST API支持其他主机访问配置 by 宏沉一笑]]
+- [[自动导入标注到 Obsidian（不使用同步助手方案）by Kenshin ]]
 
 #### M
 [[Map of content层级插件]]
@@ -301,12 +337,13 @@ up:: [[2021年新教程]]
 
 [[Markdown prettify（md格式优化插件）]]
 
-
+[[mkdocs（第三方发布插件）]]
 
 [[Media Extended]]：实现youtube中的时间轴
 
 [[Memos插件]]
 - [[Memos插件开发者自述 by Bon]]
+- [[让 Obsidian local REST API 插件和 Memos 联用起来 by Bon]]
 
 [[Meld Encrypt（加密插件）]]
 
@@ -321,6 +358,8 @@ up:: [[2021年新教程]]
 - [[Obsidian 笔记整理及TOC索引 by 一只小胖子]]
 - [[如何使用OB，在几分钟内，将几万字的PDF，转化成我们自己的知识点关系图谱 by Johnny学]]
 
+[[Notion like tables（表格增强插件）]]
+- [[Obsidian中的notion表格（Notion like tables插件介绍） by BCS]]
 
 #### O
 [[obsidian42 jump to date（跳转到制定日期插件）]]
@@ -340,10 +379,15 @@ up:: [[2021年新教程]]
 - [[教你实操从Obsidian中瞬间创建卡片到Anki by 八角经刀]]
 - [[obsidian to anki 插件中的正则表达式是用来干啥的 by 流浪猫阿狸]]
 
+[[obsius（第三方发布插件）]]
+
 [[oz's image in editor（所见即所得插件）]]
 - [[图片所见即所得（oz's image in editor插件介绍） by 软通达]]
 - [[md格式所见即所得（oz's image in editor插件介绍2） by 软通达]]
 - oz's image in editor插件新增
+
+[[Orthography（检查英语语法插件）]]
+
 
 [[obsidian zotero]]
 
@@ -354,8 +398,12 @@ up:: [[2021年新教程]]
 
 [[Persistent graph（图谱永久化插件）]]
 
+[[Periodic Notes(日记增强插件)]]
+
 [[pPhrasebank语料库插件]]
 
+[[Pandoc reference list（科研辅助插件）]]
+-  [[查看本页的参考文献（Pandoc reference list插件介绍） by 软通达]]
 ####  Q
 [[Quick Add（模板插件）]]:
 - [[Obsidian 插件之 QuickAdd 使用教程 by Houmann]] 插件作者自述，搬运到B站
@@ -376,9 +424,13 @@ up:: [[2021年新教程]]
 - [[从简睿视频总结的quickadd模板小技巧 by Lillian]]
 - [[在obsidian中如何使用QuickAdd和Kanban插件来管理日程 by 风尘噗噗啊]]
 - [[obsidina选择待办事项并自动记录时间(QuickAdd 和 Toggl插件介绍) by 风尘噗噗啊]]
+- [[Obsidian使用技巧一站式搜索并生成读书或电影笔记 by 荧光闪烁最大化]]
 
 [[Quick explorer（面包屑插件）]]
 - [[Quick explorer高效利用有限空间 by Wyatt]]
+
+[[Quiet outline（大纲插件）]]
+
 
 [[Python lab（python插件）]]
 - [[ob中运行python（Python lab插件介绍）]]
@@ -394,6 +446,9 @@ up:: [[2021年新教程]]
 [[Review（间隔复习插件）]]
 [[Readwise（稍后阅读插件）]]：需要搭配[[Readwise软件]]使用
 
+[[Remote插件]]
+
+[[Regex Pipeline（正则插件）]]
 [[Remotely save（同步插件）]]
 - [[Obsidian 同步 Remotely Save S3 配置指南 by 恐咖兵糖]]
 - [[第三方同步插件（Remotely save介绍） by 软通达]]:Dropbox
@@ -452,6 +507,7 @@ up:: [[2021年新教程]]
 
 [[Tracker插件]]
 
+[[Tree edit(树形写作插件)]]
 [[Toggl插件]]
 -  [[obsidina选择待办事项并自动记录时间(QuickAdd 和 Toggl插件介绍) by 风尘噗噗啊]]
 
@@ -463,6 +519,7 @@ up:: [[2021年新教程]]
 [[vantage（可视化多条件搜索插件）]]
 
 [[various complements插件]]：[[蚕子]]用来魔改语料库了
+- [[熱字串自動補全外掛Various Complements by 简睿]]
 
 [[Vocabulary view插件]]：可以用来做字典
 
@@ -474,5 +531,17 @@ up:: [[2021年新教程]]
 [[Wordnet（英语学习插件）]]
 - [[英语学习中的查词（Wordnet插件介绍）by 软通达]]
 
+[[Wordpress（第三方发布插件）]]
+
+#### Y
+[[Yaml bulk edit（批量编辑YAML插件）]]
+- [[obsidian批量修改文档yaml属性插件演示 by 我想做一条咸鱼]]
+
+
 #### Z
 [[ZH增强编辑插件]]
+
+[[Zotero desktop connector插件]]
+
+
+

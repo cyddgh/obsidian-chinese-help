@@ -17,3 +17,5 @@ from:
 [[ob中的流程图绘制（Mermaid教程） by 成雙醬]]
 
 [[obsidian0.13.0版本开始测试Live Preview（所见即所得）]]
+
+0.14后增加了[[Callout语法]]

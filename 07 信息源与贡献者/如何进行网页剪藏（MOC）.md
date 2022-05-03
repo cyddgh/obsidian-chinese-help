@@ -27,6 +27,10 @@ from:
 	- [[使用Pagenote进行网页标注并导出成md by 软通达]]
 - [[Hypothesis（软件）]]
 
+#### Safari扩展
+[[obsidian-highlighter（Safari扩展）]]
+- [[为在Safari摘录开发obsidian-highlighter by 王掌柜]]
+
 #### 其他方式
 - [[Obsidian 图片本地化 by Borber]]
 - [[网址剪藏工具 by 淳帅二代]]：淳帅二代使用python自己制作了工具

@@ -29,6 +29,9 @@ ob官网中文论坛： https://forum-zh.obsidian.md/
 - [[LillianWho（莉莉安）]]
 - [[维客笔记]]
 
+#### 周报
+[[风尘噗噗的竹白]]
+
 #### B站
 - [[蚕子]]
 - [[胸毛齐腰]]
@@ -53,4 +56,7 @@ ob官网中文论坛： https://forum-zh.obsidian.md/
 
 #### 简书
 - [[理行天道]]: https://www.jianshu.com/u/56a8cbef0e7a
+
+#### 语雀
+[[卡片笔记工作流 by Tong]]: https://www.yuque.com/u57395/xxmn09/hxdysy
 

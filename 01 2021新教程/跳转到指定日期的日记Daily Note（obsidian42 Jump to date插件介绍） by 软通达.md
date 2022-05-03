@@ -3,7 +3,7 @@ uid: 20220215200723
 aliases: []
 ---
 # 引言
-因为[[Memos插件]]的出现，使用[[日记插件（Daily Note）]]的频率增多，也渐渐需要增强obsidian中的日记体验，所以正在寻找[[增强ob的日记（Daily Note）插件]]。
+因为[[Memos插件]]的出现，使用[[日记插件（Daily Note）]]的频率增多，也渐渐需要增强obsidian中的日记体验，所以正在寻找[[增强ob的日记（Daily Note）插件（MOC）]]。
 
 今天介绍的Jump to date插件增强了不同日期的日记之间调整的功能。
 

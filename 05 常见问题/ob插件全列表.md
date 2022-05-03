@@ -6,6 +6,7 @@ tags: []
 from: 
 ---
 [[obsidian插件汉化项目]]
+[[2022年3月如何安装obsidian插件（阶段性总结）]]
 
 ob官方的插件目录： https://obsidian.md/plugins
 
@@ -17,3 +18,5 @@ ob官方的插件列表： https://github.com/obsidianmd/obsidian-releases/blob/
 - https://airtable.com/shrdmp10Lxmf5Wmgl/tblJqnWpcKURTjysX
 - https://ob.pory.app/
 
+Obsidian Plugin Stats
+https://obsidian-plugin-stats.vercel.app/
