@@ -22,7 +22,8 @@ ob官网中文论坛： https://forum-zh.obsidian.md/
 - [[简睿]]：可能有网络访问困难
 - [[Obsidian Roundup（ob圆桌会）]]
 - [[obsidian hub（ob发布站点）]]
-- [[Obsidian插件周刊 by 二丫讲梵]]
+- [[Obsidian插件周刊 by 二丫讲梵]]：暂停更新了
+- [[awesome obsidian by kmaasrud]]
 
 #### 微信公众号
 - [[软通达]]
@@ -42,6 +43,7 @@ ob官网中文论坛： https://forum-zh.obsidian.md/
 - [[简睿]]
 - [[宏沉一笑]]
 - [[流浪猫阿狸]]
+- [[obsidian官方（B站平台）]]
 
 
 #### 少数派

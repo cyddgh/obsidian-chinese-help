@@ -6,6 +6,7 @@ tags: []
 from: 
 ---
 剪藏一般指类似[[印象笔记]]Chrome扩展的功能，能将网页图文内容保存到笔记文件中。下面内容中[[Pagenote（Chrome扩展）]]和[[Hypothesis（软件）]]好像更倾向于网页批注（不是像剪藏那样全部截取，只截取加亮部分）。
+目前我使用的是[[自动导入标注到 Obsidian（不使用同步助手方案） by 王磊-Kenshin]]。
 
 #### 使用ob插件
 - [[ob编辑器中自动转换HTML]]
@@ -15,6 +16,7 @@ from:
 - [[Cubox]]：最近讨论比较多的软件
 	- [[安卓使用termux接收cubox文件并保存到指定obsidian库 by 围城]]
 - [[简悦]]
+	- [[自动导入标注到 Obsidian（不使用同步助手方案） by 王磊-Kenshin]]
 	- [[使用简悦 + 简悦 · 同步助手 + Obsidian 打造一站式知识管理方案 by Kenshin]]
 - [[毛线剪藏]]：请注意目前该插件被chrome提醒可能存在风险（202108312205）。
 - [[markdown-clipper（Chrome扩展） by enrico-kaack]]

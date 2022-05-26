@@ -40,6 +40,9 @@ up:: [[2021年新教程]]
 - [[obsidian同步服务（设置篇） by 软通达]]
 - [[obsidian同步服务（体验篇） by 软通达]]
 
+[[发布（publish核心插件）]]
+- [[obsidian发布服务增加了Site collaboration（站点协作） by 软通达]]
+
 [[文件恢复（File Recovery，核心插件）]]
 - [[obsidian内置文件恢复（File Recovery功能介绍） by 软通达]]
 
@@ -225,6 +228,9 @@ up:: [[2021年新教程]]
 - [[Excalidraw模板库]]
 - [[Excalidraw在Obsidian上绘画 by Wyatt]]
 - [[Thinking Maps（利用obsidian-Excalidraw手绘思维导图）]]
+- [[Obsidian实现TheBrain图谱 by 风尘噗噗]]
+- [[用obsdiain模拟thebrain（基于Excalidraw和Breadcrumb）]]
+- [[theBrain免费替代品_excalibrain上手尝鲜 by 玉树芝兰]]
 
 [[Enhancing export（增强导出插件）]]
 
@@ -232,6 +238,7 @@ up:: [[2021年新教程]]
 - [在OB中绘制思维导图（Enhancing mindmap插件介绍） by 软通达]]
 - [[Enchancing mindmap实现思维导图自由 by Wyatt]]
 
+[[ePub Reader（EPUB阅读插件）]]
 
 #### F
 [[Find unlinked files（寻找孤立文件）]]
@@ -369,6 +376,9 @@ up:: [[2021年新教程]]
 - [[安装测试版插件（obsidian42-BRAT插件介绍） by 软通达]]
 - [[BRAT抢先体验未上架外掛 by 简睿]]
 
+[[obsidian42 strange new worlds]]
+
+
 [[Obsidian Git （版本控制插件）]]
 - [[ obsidian和Git连用实现版本控制（obsidian Git插件介绍） by 软通达]]
 
@@ -378,6 +388,9 @@ up:: [[2021年新教程]]
 - [[Obsidian 与 Anki 联用初探 by Bon]]
 - [[教你实操从Obsidian中瞬间创建卡片到Anki by 八角经刀]]
 - [[obsidian to anki 插件中的正则表达式是用来干啥的 by 流浪猫阿狸]]
+
+[[Obsidian to Notion（发布插件）]]
+
 
 [[obsius（第三方发布插件）]]
 
@@ -508,6 +521,8 @@ up:: [[2021年新教程]]
 [[Tracker插件]]
 
 [[Tree edit(树形写作插件)]]
+
+[[Translator（依托有道云的字典插件）]]
 [[Toggl插件]]
 -  [[obsidina选择待办事项并自动记录时间(QuickAdd 和 Toggl插件介绍) by 风尘噗噗啊]]
 
@@ -526,6 +541,7 @@ up:: [[2021年新教程]]
 [[Vale（语法检查插件）]]
 
 #### W
+[[Weread（微信阅读插件） ]]
 [[Word Splitting for Simplified Chinese in Edit Mode （中文分词插件）]]
 
 [[Wordnet（英语学习插件）]]

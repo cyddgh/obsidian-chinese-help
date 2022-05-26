@@ -12,3 +12,5 @@ https://blog.irenmu.com/2021/05/06/2-%E7%BC%96%E8%AF%91%E8%BF%90%E8%A1%8C/
 可以看[[仁暮]]的博客
 
 另外还有其他的博客，例如 https://marcus.se.net/obsidian-plugin-docs/
+
+[[Obsidian 插件开发文档 by arcusolsson From luhaifeng666]]
