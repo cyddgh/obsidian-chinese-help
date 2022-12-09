@@ -34,17 +34,19 @@ ob官网中文论坛： https://forum-zh.obsidian.md/
 [[风尘噗噗的竹白]]
 
 #### B站
+- [[简睿]]
+- [[Johnny学]]
 - [[蚕子]]
 - [[胸毛齐腰]]
 - [[即凉]]
 - [[好燃（八角经刀）]]
-- [[Johnny学]]
 - [[风尘噗噗（啊）]]
-- [[简睿]]
 - [[宏沉一笑]]
 - [[流浪猫阿狸]]
 - [[obsidian官方（B站平台）]]
 
+#### 油管
+[[Obsidian Onboarding by Danny Hatcher]]
 
 #### 少数派
 - [[LillianWho（莉莉安）]]

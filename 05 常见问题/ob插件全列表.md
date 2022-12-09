@@ -20,3 +20,7 @@ ob官方的插件列表： https://github.com/obsidianmd/obsidian-releases/blob/
 
 Obsidian Plugin Stats
 https://obsidian-plugin-stats.vercel.app/
+
+
+https://cq91qs00fi.feishu.cn/base/bascnaylKx4A2vVuHeHjWtCHBeb
+密码：7KK4

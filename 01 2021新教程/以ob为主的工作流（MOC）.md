@@ -5,6 +5,20 @@ aliases: [workflow]
 tags: []
 from: 
 ---
+[[两年后我还在用的 Obsidian 插件 by Bon]]
+
+[[找笔记方便、写作又给力的知识库，我是这么搭建出来的 by MrCoffeeTalker]]
+
+[[obsidian的输入系统 by windily-cloud]]
+
+[[用 Obsidian 来打造你的学术外脑 by 红酒皇]] 
+
+[[每日笔记、日程管理、工作复盘 by 二一的笔记]]
+
+[[我的习惯追踪工作流 by Terry_C]]
+
+[[基于 Obisidian 的生活记录系统 by 可爱的 DIYgod]]
+
 [[obsidian 笔记流 by Die4passion]]
 
 [[把信息交给未来的自己——构建你的第二大脑 by Huang Wei]]
@@ -29,13 +43,22 @@ from:
 [[玩转 Obsidian 05 如何进行阅读及摘要  by 王掌柜]]
 [[回归 Obsidian 的纯与真 by 屋边星光]]
 
+[[我的笔记系统实践 by Kernel_panic]]
+
 #### 英语
 [[用ob学英语基于Templater和Spaced repetition by 软通达]]
 [[基于ELL扩展获得YouTube双语字幕时间戳并在Obsidian中复用 by 彭文波]]
 
+[[人文学科博士生的研究工作流（英文） by Ponciano]]
+
+
 #### 阅读
+[[学习工作流的构建思路 by Vacodwave]]
+
 [[wox插件实现一键创建读书笔记信息 by 荧光闪烁最大化]]
+
 [[总结-阅读及笔记工作流程 by 一只小胖子]]：主要关于电子书阅读
+
 [[反向高亮模板库和说明视频 by 风尘噗噗啊]]
 
 [[Obsidian使用技巧一站式搜索并生成读书或电影笔记 by 荧光闪烁最大化]]

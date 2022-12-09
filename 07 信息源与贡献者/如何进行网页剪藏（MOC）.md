@@ -37,7 +37,7 @@ from:
 - [[Obsidian 图片本地化 by Borber]]
 - [[网址剪藏工具 by 淳帅二代]]：淳帅二代使用python自己制作了工具
 - [[vnote进行网页剪藏]]
-- 
+- [[Android手机上剪藏笔记到Obsidian by 老苏]]
 
 #### 相关文章
 [[玩转 Obsidian 05 如何进行阅读及摘要  by 王掌柜]]

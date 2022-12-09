@@ -93,3 +93,17 @@ Docker的入门教程可以参考菜鸟出品的 https://www.runoob.com/docker/d
 
 在你的浏览器中输入`http://你的公网IP地址:8384`，进入syncthing。之后就按正常操作配置syncthing，这已经有很多人论述，不在本文介绍范围内。
 
+#### 202211031030对于vps设置的更新
+本节内容感谢群友林克的指导。
+目前我出于数据安全考虑，我是使用PC到手机的单向同步，又担心PC关机后，手机不能接受到最新的ob文档，所以又引入了VPS来完善这一流程。
+基于上述的需求，我各设备对Syncthing的“文件夹类型”设置如下：
+- PC：仅发送
+- VPS：接受和发送
+- 手机：接受和发送
+
+![](https://gitee.com/cyddgi/picture-store/raw/master/img/202211031037300.png)
+
+![](https://gitee.com/cyddgi/picture-store/raw/master/img/202211031038261.png)
+
+如何出现了“撤销更改”的提醒，可以点击，使得其他端（VPS和手机）的更改都消失，保持和电脑端的数据一致。
+![](https://gitee.com/cyddgi/picture-store/raw/master/img/202211031039453.png)

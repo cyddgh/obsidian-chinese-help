@@ -15,7 +15,7 @@ Remotely save是新的一款obsidian第三方同步插件，之前我也介绍�
 # 插件名片
 Remotely save插件是由fyears开发。
 
-Github地址：https://github.com/fyears/remotely-save
+Github地址： https://github.com/fyears/remotely-save
 
 # 实际操作
 ## Dropbox同步

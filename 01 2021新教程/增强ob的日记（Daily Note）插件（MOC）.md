@@ -13,6 +13,8 @@ from:
 
 [[Periodic Notes(日记增强插件)]]
 
+[[Daily Notes Editor插件]]：提供类似Roamresearch的daily notes样式
+
 # 任务管理类
 [[Rollover Daily Todos插件]]：将上一天日记中未完成的TODO任务，放到今天日记中。
 

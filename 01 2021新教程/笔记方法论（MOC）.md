@@ -7,7 +7,7 @@
 - 一元笔记法（参考（日）奥野宣之的《如何有效整理信息》）
 	1. [使用一元化笔记法来记录你的生活轨迹](http://mp.weixin.qq.com/s?__biz=MjM5NjA3OTM0MA==&mid=2655711709&idx=1&sn=1ce80c41113502604ba2ba4f899abc40&chksm=bd50e25e8a276b489e06bddf918ff699dc663594e0f82ddd7efd9a60b9877849bb5d8a31fa89&mpshare=1&scene=1&srcid=0919g12RoZIIFBz33UqQDG84#rd) by warfalcon
 - [[LYT笔记法]]
-- [[Evergreen notes]]
+- [[Evergreen notes by Andy]]
 - [[树叶笔记法]]：[[蚕子]]提出
 - [[KG笔记法]]：[[Ryooo]]提出 
 

@@ -20,3 +20,4 @@ from:
 - [[ZH增强编辑插件]]
 - [[Image Toolkit插件]]
 - [[Typewriter Scroll （打字机滚动效果插件）]]
+- [[Mini Toolbar（编辑增强）]]

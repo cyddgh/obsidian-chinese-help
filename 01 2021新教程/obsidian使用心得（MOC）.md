@@ -10,6 +10,8 @@
 - 基于 Obsidian 的卡片盒笔记法实践，吕立青，https://sspai.com/post/60802
 - 15美金一个月的Roam Research 可以用Quicker+Obsidian替代！，威廉[[ABC]]，https://zhuanlan.zhihu.com/p/164299598
 - 玩转 Obsidian | 打造知识循环利器，闲者时间_王掌柜，https://sspai.com/post/62414
+- [[为什么我在用了Supermeno四年后转向了obsidian by  masterhowtolearn]]
+- 数字工具盒｜用 Obsidian 来打造你的学术外脑  by 红酒皇， https://sspai.com/post/75690
 
 
 

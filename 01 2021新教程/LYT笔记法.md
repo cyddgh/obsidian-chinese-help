@@ -8,6 +8,7 @@ from:
 隶属于[[LYT笔记法（MOC）]]
 
 IMF笔记法现在已经改名LYT
+后续又演变出[[ACCESS笔记法]]
 
 
 

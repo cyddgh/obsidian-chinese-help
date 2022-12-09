@@ -17,6 +17,10 @@ ob官方中文帮助文档： https://publish.obsidian.md/help-zh/
 
 善用佳软： https://publish.obsidian.md/xbeta/docsify/README
 
+oldwinter的数字花园： https://publish.obsidian.md/oldwinter/README
+
+chi's memory（UI设计向）： https://publish.obsidian.md/chiux/chi's+memory
+
 [[餐巾纸盒子]]
 
 # 英文
@@ -35,3 +39,14 @@ Agora TTRPG wiki： https://publish.obsidian.md/agora/Agora
 [[obsidian hub（ob发布站点）]]
 
 [[obsidian garden（演示库）by tanepiper]]
+
+Welcome to my digital garden - Alexis Rondeau： https://publish.obsidian.md/alexisrondeau/Welcome+to+my+digital+garden
+
+Maerro（科研站）：
+https://wiki.maria-go.top/Wiki/Welcome
+https://forum-zh.obsidian.md/t/topic/9364
+
+Fork My Brain： https://notes.nicolevanderhoeven.com/Fork+My+Brain
+
+Doing History with Zotero and Obsidian by Elena Razlogova： https://publish.obsidian.md/history-notes/00+About+the+Project
+

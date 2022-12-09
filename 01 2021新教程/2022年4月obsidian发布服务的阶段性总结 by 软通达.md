@@ -6,6 +6,9 @@ aliases: []
 
 202205241312增加了[[Obsidian to Notion（发布插件）]]
 202205251701增加了[[如何自动发布obsidian库或logseq库为网站 by  fishyer]]
+202205311113[[mkdocs（第三方发布插件）]]衍生出一个新的项目[[Github publisher（第三方发布插件）]]
+
+
 正文部分：
 本文的“发布服务”是指将obsidian的md文件，推送到网上，形成一个网页（html）供读者阅读。
 

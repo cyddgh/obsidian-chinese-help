@@ -11,5 +11,7 @@ from:
 
 [[如何自动发布obsidian库或logseq库为网站 by  fishyer]]
 
+[[obsidian 目前最完美的免费发布方案 渐进式教程 by oldwinter]]
 
 
+[[Flowershow]]说可以作为obsidian的发布服务，但目前还在开发中（202211021749）。

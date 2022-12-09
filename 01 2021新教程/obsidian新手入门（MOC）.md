@@ -5,6 +5,7 @@ aliases: []
 tags: []
 from: 
 ---
+[[obsidian版本回退]]
 
 长文
 [[玩转 Obsidian基础设置篇 by 王掌柜]]
