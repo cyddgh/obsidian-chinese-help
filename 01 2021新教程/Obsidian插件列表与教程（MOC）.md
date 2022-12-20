@@ -50,6 +50,7 @@ up:: [[2021年新教程]]
 - [[obsidian内置文件恢复（File Recovery功能介绍） by 软通达]]
 
 [[白板插件（Canvas）]]
+- [[Obsidian的白板比Heptabase好吗 by 风尘噗噗]]
 
 ### 第3方插件
 
@@ -177,12 +178,13 @@ up:: [[2021年新教程]]
 
 
 
-[[Customizable Sidebar（自定义侧边栏插件）]]:目前可能已经停止更新，可转[[CommanderI插件]]
+[[Customizable Sidebar（自定义侧边栏插件）]]:目前可能已经停止更新，可转[[Commander插件]]
 - [[自定义侧边栏（Customizable Sidebar插件介绍） by 软通达]]
 - [[Bartender(酒保)和Customizable Sidebar介绍 by 简睿]]
 
-[[CommanderI插件]]
+[[Commander插件]]
 - [[Obsidian Command 进阶用法三则 by bakamio]]
+- [[将ob的命令以按钮形式固定在页面上（Commander插件介绍） by 软通达]]
 
 [[CSV Editor（CSV 编辑插件）]]
 
@@ -199,7 +201,7 @@ up:: [[2021年新教程]]
 [[Dataview插件]]
 - [[Dataview Advanced queries by blacksmithgu]]：这应该是dataview插件作者的自述
 - [[Basic Dataview Query Builder by s-blu]]
-- [[Dataview插件的quicker动作 by 李考凡]]
+- [[Dataview插件的quicker动作 by 李考凡]]：推荐
 - [[obsidian dataview example vault（dataview演示库） by s-blu]]
 - [[Obsidian 插件之 Dataview by Bon]]
 - [[dataview入门教程 by 无名]]
@@ -247,6 +249,9 @@ up:: [[2021年新教程]]
 - [[Obsidian 插件之 Dynamic Highlights by Bon]]
 
 #### E
+[[Easy Typing（编辑增强插件）]]
+- [[Obsidian 插件 Easy Typing 极大地提升中文用户在OB中的编辑体验 by 咬猪娃]]
+
 [[Encrypt（加密插件）]]
 
 [[Excalidraw插件]]：附带[[Excalibrain（模拟thebrain插件）]]
@@ -341,6 +346,7 @@ up:: [[2021年新教程]]
 
 [[Language learner（类LingQ英语学习插件）]]
 - [[obsidian language learner基本教程 by ThTree]]
+- [[用Obsidian学习英文 Language Learner by 简睿]]
 
 [[Latex suite（Latex补全插件）]]
 - [[Obsidian 插件之 LaTeX Suite by Bon]]
@@ -360,6 +366,8 @@ up:: [[2021年新教程]]
 [[List modified（列出修改插件）]]
 
 [[Linter（格式刷插件）]]
+
+[[Link Nodes In Canvas（白板插件）]]
 
 [[Local REST插件]]
 - [[让 Obsidian local REST API 插件和 Memos 联用起来 by Bon]]
@@ -399,6 +407,8 @@ up:: [[2021年新教程]]
 
 [[Mind map（思维导图插件）]]
 
+[[Mindmap nextgen （思维导图插件）]]
+
 [[Mini Toolbar（编辑增强）]]
 
 
@@ -430,8 +440,8 @@ up:: [[2021年新教程]]
 - [[安装测试版插件（obsidian42-BRAT插件介绍） by 软通达]]
 - [[BRAT抢先体验未上架外掛 by 简睿]]
 
-[[obsidian42 strange new worlds]]
-
+[[obsidian42 strange new worlds  （计算引用插件）]]
+- [[简睿学堂 106 奇异新世界插件]]
 
 [[Obsidian Git （版本控制插件）]]
 - [[ obsidian和Git连用实现版本控制（obsidian Git插件介绍） by 软通达]]
@@ -560,9 +570,6 @@ up:: [[2021年新教程]]
 - [[如何使用插件 Spaced Repetition by Johnny学]]
 - [[Spaced repetition的使用经验分享 by 夫君酱 ]]
 
-[[Strange New Worlds 插件]]
-- [[简睿学堂 106 奇异新世界插件]]
-
 [[Style setting（调整主题插件）]]
 
 [[Supercharged Links插件]]
@@ -597,11 +604,14 @@ up:: [[2021年新教程]]
 - [[Obsidian 插件介绍篇(一) by 一只小胖子]]
 - [[一个Obsidian深度爱好者首次上手Text expand插件实录 by 八角经刀]]
 
+[[Text Generator（AI写作插件）]]
+- [[GPT-3 驱动下的 Obsidian AI 辅助写作插件Text Generator by  青柠学术]]
+
 [[Title index插件]]
 
 [[Tracker插件]]
 
-[[Tree edit(树形写作插件)]]
+[[Tree edit(树形写作插件)]]：模拟Gingko
 
 [[Translator（依托有道云的字典插件）]]
 [[Toggl插件]]

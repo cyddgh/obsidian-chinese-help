@@ -11,6 +11,8 @@ from:
 
 [[KG 笔记法示例库 by Ryoooo]]
 
+[[bramses-highly-opinionated-vault-2023 by bramses]]
+
 [[时间管理的开箱即用库  by EliWimmer]]
 
 [[obsidian garden（演示库）by tanepiper]]
