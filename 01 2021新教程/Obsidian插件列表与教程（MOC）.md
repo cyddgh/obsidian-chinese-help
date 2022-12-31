@@ -51,6 +51,8 @@ up:: [[2021年新教程]]
 
 [[白板插件（Canvas）]]
 - [[Obsidian的白板比Heptabase好吗 by 风尘噗噗]]
+- [[ob 1.1.8版本公开发布，白板功能正式实装 by 软通达]]
+- [[知识管理神器 Obsidian终于有了白板功能 by 清单控沙牛]]
 
 ### 第3方插件
 
@@ -153,6 +155,8 @@ up:: [[2021年新教程]]
 
 [[Calendar插件]]
 - [[Calendar不只是日历  by Wyatt]]
+
+[[Canvas Block Reference（白板块引用插件）]]
 
 [[Citation（Zotero插件）]]：近乎等于[[使用ob进行论文阅读与科研（MOC）]]
 - [[ob和zotero连用（Citation插件介绍） by 软通达]]
