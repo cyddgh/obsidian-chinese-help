@@ -9,7 +9,11 @@ from:
 
 [[找笔记方便、写作又给力的知识库，我是这么搭建出来的 by MrCoffeeTalker]]
 
+[[心理学312双链笔记系统 by 王旰]]
+
 [[obsidian的输入系统 by windily-cloud]]
+
+[[Obsidian可能是最适合做个人知识库的软件 by 朴禅郑仁]]
 
 [[用 Obsidian 来打造你的学术外脑 by 红酒皇]] 
 
@@ -44,7 +48,8 @@ from:
 [[回归 Obsidian 的纯与真 by 屋边星光]]
 
 [[我的笔记系统实践 by Kernel_panic]]
-
+#### 人生系统
+[[怎么做才能立刻掌控自己的时间 by 本子在隔壁]]
 #### 英语
 [[用ob学英语基于Templater和Spaced repetition by 软通达]]
 [[基于ELL扩展获得YouTube双语字幕时间戳并在Obsidian中复用 by 彭文波]]
@@ -64,9 +69,11 @@ from:
 [[Obsidian使用技巧一站式搜索并生成读书或电影笔记 by 荧光闪烁最大化]]
 #### 写作
 [[5步打造个人写作系统 by 即凉]]
-
+[[WRITING A NOVEL IN MARKDOWN by pdworkman]]
 #### 科研
 [[My workflow一个文科博士生的资料管理、阅读和笔记系统基于DEVONthink 3，Obsidian by chyixian]]
+
+[[Obsidian Vault Tour Chris (Pseudometa)  by  Danny Talks Tech]]
 
 [[PDF阅读笔记工作流的最佳实践 by fishyer]]
 
@@ -74,7 +81,7 @@ from:
 
 [[An Integrated Qualitative Analysis Environment with Obsidian（ob做质性分析） by Axle]]
 
-
+[[个人记录 Obsidian+Zotero 文献阅读工作流 by 假装在飞]]
 #### 涉及到zotero
 [[科研生产力Obsidian中文期刊库 by 路子十一]]
 [[科研生产力Obsidian&Zotero高效阅读文献  by 路子十一]]

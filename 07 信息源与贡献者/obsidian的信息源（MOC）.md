@@ -19,6 +19,7 @@ ob官网中文论坛： https://forum-zh.obsidian.md/
 
 #### 个人博客
 - [[软通达]]
+- Obsidian文档咖啡豆版: https://coffeetea.top/zh/
 - [[简睿]]：可能有网络访问困难
 - [[Obsidian Roundup（ob圆桌会）]]
 - [[obsidian hub（ob发布站点）]]
@@ -27,11 +28,12 @@ ob官网中文论坛： https://forum-zh.obsidian.md/
 
 #### 微信公众号
 - [[软通达]]
-- [[LillianWho（莉莉安）]]
 - [[维客笔记]]
+- [[LillianWho（莉莉安）]]
+
 
 #### 周报
-[[风尘噗噗的竹白]]
+[[风尘噗噗的竹白]]：已经停更？
 
 #### B站
 - [[简睿]]

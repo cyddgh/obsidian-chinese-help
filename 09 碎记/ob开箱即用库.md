@@ -9,6 +9,10 @@ from:
 
 [[开箱即用库（Blue topaz examples）by Cuman]]
 
+[[基于MAKE插件的开箱即用库 by Nathan]]
+
+[[凸新东方（2XDF）开箱即用库 by 灵魂如风]]
+
 [[KG 笔记法示例库 by Ryoooo]]
 
 [[bramses-highly-opinionated-vault-2023 by bramses]]

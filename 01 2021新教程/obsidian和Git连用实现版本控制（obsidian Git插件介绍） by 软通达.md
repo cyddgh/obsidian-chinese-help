@@ -14,8 +14,10 @@ from:
 - 运行Git后有形成一系列版本文件，你可以将其提交到Github或Gitee等网站（类似于仓库）。
 
 如果你需要更加明确这概念可以前往：
-- 菜鸟网：https://www.runoob.com/git/git-tutorial.html
-- 廖雪峰：https://www.liaoxuefeng.com/wiki/896043488029600/
+- 菜鸟网： https://www.runoob.com/git/git-tutorial.html
+- 廖雪峰： https://www.liaoxuefeng.com/wiki/896043488029600/
+- rogerdudler的简易教程： http://rogerdudler.github.io/git-guide/index.zh.html
+
 本文不对git做更多的知识普及，主要集中在git和obsidian的连用，默认读者已经能熟练使用git。根据我学习的经验，选择上述任一学习资料，通过1-2小时学习即可入门。
 
 此外，因为git默认的界面不是很适合普通用户，我使用Sourcetree（一种Git的可视化软件）来进行演示。此软件的安装在百度中也有很多的文章解释，特别是廖雪峰老师在教程中也有详细介绍（https://www.liaoxuefeng.com/wiki/896043488029600/1317161920364578 ）我也不再论述。

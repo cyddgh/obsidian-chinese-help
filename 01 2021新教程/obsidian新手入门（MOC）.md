@@ -14,7 +14,8 @@ from:
 [[Obsidian 优质中文内容合集 by Lillian]]
 [[obsidian新手不完全指南 by windily]]
 [[我的Obsidian入门之旅 by 二丫讲梵]]
-
+####  视频
+[[商小图学堂笔记管理神器Obsidian by 浙江工商大学图书馆]]
 如果你希望全面了解obsidian，建议先行阅读obsidian帮助文档。目前帮助文档已有中文，请见[[ob官方帮助文档（MOC）]]。
 
 本教程中也有一些章节适合

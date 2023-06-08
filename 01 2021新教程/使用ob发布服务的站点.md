@@ -5,24 +5,22 @@ aliases: []
 tags: []
 from: 
 ---
-
+[[发布（publish核心插件）]]
 # 中文
 ob中文教程： https://publish.obsidian.md/chinesehelp
-[[猫老大的小站台]] by [[猫老大]]
 ob官方中文帮助文档： https://publish.obsidian.md/help-zh/
-
+指导员吴刚的数字花园 https://www.coachwugang.com/
 法政西南： https://publish.obsidian.md/wanyulawyer
-
-建筑类网站： https://publish.obsidian.md/fred-lai
-
+基础汉英类义词典： https://publish.obsidian.md/thesaurus/
 善用佳软： https://publish.obsidian.md/xbeta/docsify/README
-
+餐巾纸盒子： https://publish.obsidian.md/napkinium/Index
+Lawsight（法律法规和司法案例）： https://publish.obsidian.md/wanyulawyer/Lawsight
+Zack数字花园（IT，Nginx）： https://publish.obsidian.md/zakzhu
+#### 已经失效
 oldwinter的数字花园： https://publish.obsidian.md/oldwinter/README
-
+建筑类网站： https://publish.obsidian.md/fred-lai
+猫老大的小站台： https://publish.obsidian.md/maolaoda
 chi's memory（UI设计向）： https://publish.obsidian.md/chiux/chi's+memory
-
-[[餐巾纸盒子]]
-
 # 英文
 ob官方英文帮助文档： https://help.obsidian.md/Index
 

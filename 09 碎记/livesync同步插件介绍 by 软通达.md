@@ -8,7 +8,7 @@ from:
 # 引言
 livesync是obsidian中的一款第三方同步插件，借助CouchDB（可以免费使用IBM，或者自建）数据库来同步多终端上的ob数据。开发者称可以运行在CouchDB。本文主要是依据开发者本人自述（ https://github.com/vrtmrz/obsidian-livesync/blob/main/docs/setup_cloudant.md ）进行配置，我个人对具体机制不是很了解。但通过开发者的文档配置成功，并且在win和安卓上同步成功。
 
-同步前后，我使用git软件对ob库进行监控，没有发现文本被改动的情况，除了Booknote插件所产生的一些xml格式文件。这说明该同步插件对非md的文本文件可能存在一些兼容问题，大家最后配合git使用。
+同步前后，我使用git软件对ob库进行监控，没有发现文本被改动的情况，除了Booknote插件所产生的一些xml格式文件。这说明该同步插件对非md的文本文件可能存在一些兼容问题，大家最好配合git使用。
 
 另外，说句题外话，最近ob的同步功能增强了批量恢复，有购买同步服务的使用者可以去看看。
 

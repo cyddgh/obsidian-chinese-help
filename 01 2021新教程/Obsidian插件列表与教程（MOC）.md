@@ -3,7 +3,7 @@ uid: 202107150945
 ---
 
 up:: [[2021年新教程]]
-
+same:: [[obsidan插件开发与翻译]]
 在ob软件内安装插件时，因为网络原因可能无法安装，见[[为什么无法查看和下载社区插件和主题（MOC）]]。
 安装插件后，因为插件原因、ob版本原因，可能无法加载插件，见[[为什么无法加载插件（Failed to load plugin）]]。
 更多问题可以参考官方帮助中[[第三方插件]]一节。
@@ -23,6 +23,8 @@ up:: [[2021年新教程]]
 
 [[obsidian内置文件恢复（File Recovery功能介绍） by 软通达]]
 
+[[书签插件（Bookmarks插件）]]：1.2版本后，书签插件取代了标星插件
+
 [[出链插件]]
 - [[读论文时通过Obsidian中Aliases别名和潜在链接实现笔记推荐 by 八角经刀]]
 
@@ -35,6 +37,7 @@ up:: [[2021年新教程]]
 
 [[Vim模式（核心插件）]]
 - [[obsidian的输入系统 by windily-cloud]]
+- [[Obsidian 搭配 Vim Mode提升中文写作体验 by jiyee]]
 
 [[Slash commands插件介绍 by 软通达]]
 
@@ -53,6 +56,7 @@ up:: [[2021年新教程]]
 - [[Obsidian的白板比Heptabase好吗 by 风尘噗噗]]
 - [[ob 1.1.8版本公开发布，白板功能正式实装 by 软通达]]
 - [[知识管理神器 Obsidian终于有了白板功能 by 清单控沙牛]]
+- [[一起来看看大佬们的Obsidian白板（Canvas）使用案例分享 by  维客笔记]]
 
 ### 第3方插件
 
@@ -241,6 +245,8 @@ up:: [[2021年新教程]]
 
 [[Dictionary（字典插件）]]
 
+[[Digital garden（发布插件）]]
+
 [[Douban（豆瓣插件）]]
 
 [[Drag and drop block插件]]
@@ -296,6 +302,9 @@ up:: [[2021年新教程]]
 
 [[Floating Toc（悬浮目录插件）]]
 - [[悬浮目录（Floating Toc插件介绍）]]
+
+#### G
+[[Git Sync(同步插件)]]
 
 #### H
 [[Habitica sync（插件）]]
@@ -360,8 +369,10 @@ up:: [[2021年新教程]]
 - [[Leaflet插件说明（中文翻译版） by 宏沉一笑]]
 
 [[Ledger（记账插件）]]
+
 [[Longform（长文写作插件）]]
 - [[Longform插件使用说明选译 by 邙洛山人]] 
+- [[Longform使用指南 by 内蒙古的阿萨克Isaac]]
 
 [[Livesync（同步插件）]]：高级操作
 - [[livesync同步插件介绍 by 软通达]]
@@ -400,6 +411,9 @@ up:: [[2021年新教程]]
 [[Markdown prettify（md格式优化插件）]]
 
 [[mkdocs（第三方发布插件）]]
+
+[[Metadata Menu]]
+- [[obsidian Metadata Menu插件使用介绍 by 宏沉一笑]]
 
 [[Media Extended]]：实现youtube中的时间轴
 
@@ -449,6 +463,7 @@ up:: [[2021年新教程]]
 
 [[Obsidian Git （版本控制插件）]]
 - [[ obsidian和Git连用实现版本控制（obsidian Git插件介绍） by 软通达]]
+- [[Obsidian 的 PC 端同步方案，无代码搞定 Git 同步 by 沨沄极客]]
 
 
 
@@ -492,6 +507,8 @@ up:: [[2021年新教程]]
 [[Persistent graph（图谱永久化插件）]]
 
 [[Periodic Notes(日记增强插件)]]
+
+[[Perlite(发布插件)]]
 
 [[pPhrasebank语料库插件]]
 
@@ -565,6 +582,10 @@ up:: [[2021年新教程]]
 #### S
 [[Sidekick（自动推荐插件）]]
 
+[[Smart connections（AI插件）]]
+- [[如何使用个人知识库的ChatGPT插件smart-connections by 内蒙古的阿萨克Isaac]]
+
+
 [[Sortable插件]]：可以搭配[[Dataview插件]]
 
 [[Spell checking]]
@@ -596,6 +617,9 @@ up:: [[2021年新教程]]
 
 [[Task progress bar(任务进度插件)]]
 
+[[Tasks Timeline(任务管理插件)]]
+
+
 [[Templater（模板增强插件）]]:
 - [[202011272145插件Templater by 简睿]]
 - [[obsidian超级模板插件Templater使用效果试玩 by Lillian Who]]
@@ -618,14 +642,18 @@ up:: [[2021年新教程]]
 [[Tree edit(树形写作插件)]]：模拟Gingko
 
 [[Translator（依托有道云的字典插件）]]
+
 [[Toggl插件]]
 -  [[obsidina选择待办事项并自动记录时间(QuickAdd 和 Toggl插件介绍) by 风尘噗噗啊]]
 
 [[Todo插件]]：针对每日日记的任务管理增强
 
 [[Typewriter Scroll （打字机滚动效果插件）]]：模拟打字机滚动的效果，
-
+#### U
+[[Ultimate Todoist Sync for Obsidian]]
 #### V
+[[Vault Chat]]
+
 [[vantage（可视化多条件搜索插件）]]
 
 [[Various complements插件]]：[[蚕子]]用来魔改语料库了
@@ -638,7 +666,7 @@ up:: [[2021年新教程]]
 [[Vale（语法检查插件）]]
 
 #### W
-
+[[webpage插件]]
 
 [[Weread（微信阅读插件） ]]
 

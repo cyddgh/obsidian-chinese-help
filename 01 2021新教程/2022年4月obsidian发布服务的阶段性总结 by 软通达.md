@@ -7,6 +7,11 @@ aliases: []
 202205241312增加了[[Obsidian to Notion（发布插件）]]
 202205251701增加了[[如何自动发布obsidian库或logseq库为网站 by  fishyer]]
 202205311113[[mkdocs（第三方发布插件）]]衍生出一个新的项目[[Github publisher（第三方发布插件）]]
+202301211101[[webpage插件]]能将ob的md转html
+202301221057[[Digital garden（发布插件）]]，发布服务的替代品，很不错了 
+202301231914[[Share as gist（发布插件）]]感觉没有必要，这是发布到gist
+202302031824[[Perlite(发布插件)]] 听说不错
+202306020926[[利用 Github Gist 快速分享 Obsidian 笔记 from utgd]]
 
 
 正文部分：

@@ -23,6 +23,7 @@ John学：https://ob.pory.app/
 
 [[爱思助手解决ios（iPhone和iPad）插件的安装 ]]
 
+[[iOS安装插件]]
 
 #### 其他视频
 

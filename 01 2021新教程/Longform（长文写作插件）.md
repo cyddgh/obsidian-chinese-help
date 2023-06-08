@@ -5,5 +5,6 @@ aliases: []
 tags: []
 from: 
 ---
-[[待研究插件]]
+same:: [[Writing（写作插件）]]
+
 https://github.com/kevboh/longform
