@@ -9,6 +9,10 @@ from:
 
 [[开箱即用库（Blue topaz examples）by Cuman]]
 
+[[PaperBell by SongshGeo]]：学术
+
+[[IOTO by Johnny学]]
+
 [[基于MAKE插件的开箱即用库 by Nathan]]
 
 [[凸新东方（2XDF）开箱即用库 by 灵魂如风]]

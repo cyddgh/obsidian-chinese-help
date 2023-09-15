@@ -10,4 +10,4 @@ from:
 
 [[obsidian-annotator VS obsidian-markmind by 风尘噗噗]]
 
-[[Booknote插件]]
+[[Bookmaster插件]]

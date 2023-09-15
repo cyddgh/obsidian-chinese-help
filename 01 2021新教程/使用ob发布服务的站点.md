@@ -9,6 +9,7 @@ from:
 # 中文
 ob中文教程： https://publish.obsidian.md/chinesehelp
 ob官方中文帮助文档： https://publish.obsidian.md/help-zh/
+审计师延寿指南： https://publish.obsidian.md/viking21
 指导员吴刚的数字花园 https://www.coachwugang.com/
 法政西南： https://publish.obsidian.md/wanyulawyer
 基础汉英类义词典： https://publish.obsidian.md/thesaurus/

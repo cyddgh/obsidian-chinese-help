@@ -6,7 +6,7 @@ tags: []
 from: 
 ---
 国内下载obsidian插件地址（不保证文件安全）：
-John学：https://ob.pory.app/
+John学： https://ob.pory.app/
 宏沉一笑Gitee库：https://gitee.com/whghcyx/obsidian-plugin
 
 

@@ -1,9 +1,6 @@
 ---
-title: 
 uid: 202107131426
 aliases: []
-tags: []
-from: 
 ---
 [[2022年3月如何同步obsidian文件（阶段性总结）]]
 

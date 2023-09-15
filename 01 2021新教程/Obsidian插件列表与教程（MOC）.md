@@ -142,7 +142,7 @@ same:: [[obsidan插件开发与翻译]]
 - [[在ob中进行有方向链接（Breadcrumbs面包屑插件介绍）by 软通达]]
 
 
-[[Booknote插件]]
+[[Bookmaster插件]]：原称是Booknote
 - [[如何安装并使用booknote插件 by Cuman]] 
 - [[PDF、office文档等批注（Booknote插件） by 软通达]]
 - [[在Obsidian中使用BookNote阅读文档的4个quickadd脚本 by Jason Liang]]
@@ -274,6 +274,8 @@ same:: [[obsidan插件开发与翻译]]
 - [[theBrain免费替代品excalibrain上手尝鲜 by 玉树芝兰]]
 - [[匈牙利大叔的Excalibrain by Johnny学]]
 
+[[Excalidraw-cn插件]]：对[[Excalidraw插件]]的优化
+- [[Handraw支持中文手写效果的 Excalidraw by 程序员晚天]]
 
 [[Excalibrain（模拟thebrain插件）]]见[[Excalidraw插件]]
 
@@ -323,8 +325,13 @@ same:: [[obsidan插件开发与翻译]]
 
 [[Image auto upload Plugin （图片自动上传到图床插件）]]
 
+[[Image Uploader（图床插件）]]：这是一个支持 Blog MetaWeblog API、PicGo、PicGo-Core 上传图片到图床 Obsidian 插件
+
 [[Image Toolkit插件]]
 - [[图片浏览增强（Image Toolkit插件介绍） by 软通达]]
+
+[[Importer(导入插件)]]
+- [[从Evernote导入到obsidian（Importer插件介绍）]]
 
 [[incremental Writing（增量写作插件）]]
 - [[总结-阅读及笔记工作流程 by 一只小胖子]]

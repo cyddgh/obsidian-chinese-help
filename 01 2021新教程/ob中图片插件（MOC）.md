@@ -7,6 +7,8 @@ from:
 ---
 [[Image auto upload Plugin （图片自动上传到图床插件）]]用于图片自动上传
 
+[[Image Uploader（图床插件）]]：这是一个支持 Blog MetaWeblog API、PicGo、PicGo-Core 上传图片到图床 Obsidian 插件
+
 [[Leaflet地图插件]]可以将图片作为地图标注
 
 [[Image Toolkit插件]]增强图片查看能力（放大、缩小、旋转等）。

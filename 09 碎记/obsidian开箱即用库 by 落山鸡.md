@@ -12,3 +12,5 @@ https://forum-zh.obsidian.md/t/topic/2330
 Gitee： 开箱即用的obsidian库 Releases - Gitee 73
 
 Github： Releases · cyddgh/obsidian-out-of-the-box · GitHub 32
+
+
