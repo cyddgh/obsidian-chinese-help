@@ -10,7 +10,7 @@ from:
 [[想写就写，灵思无疆 by 珪璋]]
 [[一种实用新型 Obsidian 实践之构建我的第二大脑 by 林宜丙]]
 
-[[找笔记方便、写作又给力的知识库，我是这么搭建出来的 by MrCoffeeTalker]]
+[[找笔记方便、写作又给力的知识库，我是这么搭建出来的 by MrCoffeeTalker]]：给出了具体的步骤，推荐。
 
 [[组织信息的Obsidian实践建立专业博学的知识地图 by Echo_SEL]]
 
@@ -78,6 +78,10 @@ from:
 [[5步打造个人写作系统 by 即凉]]
 [[WRITING A NOVEL IN MARKDOWN by pdworkman]]
 #### 科研
+
+笔记系统回顾：我与 Obsidian 不知不觉的 4 年 - 少数派
+https://sspai.com/post/85339
+
 [[My workflow一个文科博士生的资料管理、阅读和笔记系统基于DEVONthink 3，Obsidian by chyixian]]
 
 [[Obsidian Vault Tour Chris (Pseudometa)  by  Danny Talks Tech]]

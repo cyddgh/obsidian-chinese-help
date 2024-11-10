@@ -33,7 +33,7 @@ same:: [[obsidan插件开发与翻译]]
 
 [[ZK卡片（核心插件）]]
 
-[[模板（核心插件]]
+[[模板（核心插件）]]
 
 [[Vim模式（核心插件）]]
 - [[obsidian的输入系统 by windily-cloud]]
@@ -57,6 +57,8 @@ same:: [[obsidan插件开发与翻译]]
 - [[ob 1.1.8版本公开发布，白板功能正式实装 by 软通达]]
 - [[知识管理神器 Obsidian终于有了白板功能 by 清单控沙牛]]
 - [[一起来看看大佬们的Obsidian白板（Canvas）使用案例分享 by  维客笔记]]
+
+[[剪藏插件（Web Clipper，官方核心插件）]]
 
 ### 第3方插件
 
@@ -307,7 +309,7 @@ same:: [[obsidan插件开发与翻译]]
 
 #### G
 [[Git Sync(同步插件)]]
-
+[[Graph Link Types（为图谱连线加上备注 ）]]
 #### H
 [[Habitica sync（插件）]]
 
@@ -404,6 +406,9 @@ same:: [[obsidan插件开发与翻译]]
 [[Marginnote companion插件]]
 - [[Obsidian与Marginnote 3互通联动 by 维客笔记]]
 
+[[MarkSearch插件]]
+- [[在谷歌检索时，检索ob内的文件（MarkSearch插件）]]
+
 [[Markdown Formatting Assistant（md格式插件）]]
 - [[在obsidian中快速输入markdown格式（Markdown Formatting Assistant插件介绍）by 软通达]]
 
@@ -454,6 +459,7 @@ same:: [[obsidan插件开发与翻译]]
 - [[Obsidian中的notion表格（Notion like tables插件介绍） by BCS]]
 
 #### O
+[[outliner_md（编辑增强插件）|outliner.md（编辑增强插件）]]
 [[ObsiDOOM（游戏）]]
 
 [[obsidian ocr插件 ]]
@@ -484,7 +490,7 @@ same:: [[obsidan插件开发与翻译]]
 [[Obsidian to Notion（发布插件）]]
 - [[obsidian to notion 設定影片 中文＆英文版 by FredLai]]
 
-[[Obsidian zotero（Zotero插件）]]
+[[Zotlit（Zotero插件）]]
 - [[Obsidian zotero开发者自述 by Aidenlx]]
 - [[obsidian读取zotero笔记并跳转（obsdian-zotero插件介绍） by 软通达]]
 -[[Zotero和Obsidian联用新插件 by ShareStuff]]
@@ -510,6 +516,11 @@ same:: [[obsidan插件开发与翻译]]
 [[Pane relief（历史记录插件）]]
 
 [[PDF to Markdown]]：[[如何使用OB，在几分钟内，将几万字的PDF，转化成我们自己的知识点关系图谱 by Johnny学]]
+
+[[PDF plus插件]]
+
+[[Better Export PDF 插件]]
+-  [[better-export-pdf 导出 pdf 带上目录 by calmwaves]]
 
 [[Persistent graph（图谱永久化插件）]]
 
@@ -668,9 +679,12 @@ same:: [[obsidan插件开发与翻译]]
 - [[obsidian language learner基本教程 by ThTree]]：第40分钟，自动补全一节
 - [[various complements插件教程文字整理]]
 
+[[Vale（语法检查插件）]]
+
 [[Vocabulary view插件]]：可以用来做字典
 
-[[Vale（语法检查插件）]]
+[[ Virtual Linker Plugin (Glossary Plugin)]]:[[提示潜在的双链（Virtual linker插件介绍） by 软通达]]
+
 
 #### W
 [[webpage插件]]

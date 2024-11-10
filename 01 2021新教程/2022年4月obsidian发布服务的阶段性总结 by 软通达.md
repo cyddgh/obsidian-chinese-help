@@ -12,6 +12,12 @@ aliases: []
 202301231914[[Share as gist（发布插件）]]感觉没有必要，这是发布到gist
 202302031824[[Perlite(发布插件)]] 听说不错
 202306020926[[利用 Github Gist 快速分享 Obsidian 笔记 from utgd]]
+202312251342使用 Obsidian 免费建个人博客 - EvanMiao
+https://sspai.com/post/85262 [[Github publisher（第三方发布插件）]]
+微信群群友评论： 评论系统推荐 waline.js.org  ，部署在deta，https://waline.js.org/guide/deploy/deta.html 目前deta还没出收费政策
+Detaopen in new window 是一个可免费使用的 Serverless 部署平台。我们可以快速的将 Waline 部署到 Deta 平台上。 教程里有啊
+202402121909Obsidian Publish的开源替代品Perlite by  杨浦老苏
+https://mp.weixin.qq.com/s/th_kStNvJYZvT0F5iTC2Xg
 
 
 正文部分：

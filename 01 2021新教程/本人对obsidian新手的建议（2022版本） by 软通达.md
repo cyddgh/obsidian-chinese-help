@@ -28,7 +28,7 @@ from:
 3. 用ob打开解压后的开箱即用库文件夹，开始记笔记。
 4. 有不懂的地方，先看ob软件自带的帮助文档、微信公众号（软通达）、ob中文教程（ https://publish.obsidian.md/chinesehelp ）。如果没有记载，可以到ob中文论坛（ https://forum-zh.obsidian.md )或ob爱好者QQ群（774176839）内询问。
 5. 插件或主题不能下载和访问，可以手动下载后安装，例如从 https://gitee.com/whghcyx/obsidian-plugin/tree/master 。更多的可以查看[[为什么无法查看和下载社区插件和主题（MOC）]]。
-6. 插件的使用可以查看[[Obsidian插件列表与教程（MOC）]]，或者B站、知乎等等。
+6. 插件的使用可以查看[[obsidian插件列表与教程（MOC）]]，或者B站、知乎等等。
 
 # 不建议你立刻做的事情
 1. 不用去研究obsidian主题和css

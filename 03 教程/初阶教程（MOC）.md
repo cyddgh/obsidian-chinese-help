@@ -42,8 +42,8 @@
 
 更多的样式修改可能要使用[[html]]或者[[CSS]]，请参考高级教程中的[[如何修改CSS样式]]
 
-### [[Obsidian插件列表与教程（MOC）]]
-![[Obsidian插件列表与教程（MOC）]]
+### [[obsidian插件列表与教程（MOC）]]
+![[obsidian插件列表与教程（MOC）]]
 
 ### 常见问题
 [[obsidian使用中常见问题（MOC）]]

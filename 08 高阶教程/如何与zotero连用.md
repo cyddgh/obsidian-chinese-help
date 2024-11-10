@@ -1,5 +1,5 @@
 目前ob中涉及zotero的插件：
-[[Obsidian zotero（Zotero插件）]]
+[[Zotlit（Zotero插件）]]
 [[Zotero desktop connector（Zotero插件）]]
 [[Bibnotes（Zotero插件）]]
 [[Citation（Zotero插件）]]

@@ -2,6 +2,7 @@
 uid: 20230426205201
 aliases: []
 ---
+后续[[使用PicList和EasyWebSvr搭建本地图床]]
 # 摘要
 使用EasyWebSvr软件来构建本地服务器，搭建本地图床，方便obsidian的图片引用，甚至是其他类型的文件引用。
 # 引言

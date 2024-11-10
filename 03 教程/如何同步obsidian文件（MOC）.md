@@ -11,6 +11,7 @@ aliases: []
 [[obsidian同步服务（体验篇） by 软通达]]
 这两篇可能有些过时了，最新版本的同步增加了很多功能。但大体意思不变。
 
+[[2023年底obsidian同步政策变动]]
 # ob第3方同步插件
 [[Livesync（同步插件）]]
 [[Remotely save（同步插件）]]：[[第三方同步插件（Remotely save介绍） by 软通达]]
