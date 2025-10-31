@@ -67,13 +67,21 @@ aliases: []
 
 | 标签      | 作用                                                         | 使用建议                                                     |
 | --------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ruby + rt | <ruby>国家<rt>Nation</ruby> 或 <ruby>国家<rt>Nation</rt></ruby> | 技术翻译文档里比较常见的（Typora复制有bug）<br />（这个最好字体在18px以上效果较好） |
+| ruby + rt | <ruby>国家<rt>Nation</rt></ruby> | 技术翻译文档里比较常见的（Typora复制有bug）<br />（这个最好字体在18px以上效果较好） |
 | kbd       | <kbd>Ctrl</kbd> + <kbd>C</kbd><br /><kbd>Ctrl Shift</kbd> + <kbd>V</kbd> | 主要是快捷键用<br />觉得原生的样式有点一般的，也可以调整一下css |
 | u         | <u>下滑线</u>                                                |                                                              |
-| center    | <center>居中</center><br />（正文生效）                      | 非必要，勿使用                                               |
+| center    | `<center>居中</center><br />`（正文生效）                     | 非必要，勿使用                                               |
 | abbr      | <abbr title="kubernetes">k8s</abbr>                          | 缩写，可以为一些缩写添加注释                                 |
 
-
+> [!warning]
+> 现已不再推荐 `center` `font` `big` 等标签，不利于结构与样式分离，且他们在HTML4中已经被废弃，并在某些环境中可能报错
+> 
+> ```bash
+> [Vue warn]: Failed to resolve component: center
+> 665If this is a native custom element, make sure to exclude it from component resolution via compileroptions.isCustomElement.
+> 666[Vue warn]: Failed to resolve component: font
+> 667If this is a native custom element, make sure to exclude it from component resolution via compilerOptions.isCustomElement.
+> ```
 
 兼容性
 （以下表头缩写分别为：Obsidian、Typora、CSDN、掘金、Github、用于代替的HTML标签。）
@@ -134,10 +142,18 @@ aliases: []
 
 | 标签                                        | 作用                                                         | 使用建议                                                     |
 | ------------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| font + style样式<br />主要是face size color | <font style="color:red">红色</font><br /><font style="color:blue">蓝色</font><br /><font style="color:green">绿色</font><br /><font style="color:cyan">青色</font> | 看到有的人比较喜欢使用这个。<br />其实还是可以用，如果有工具栏，并且能保证不会以纯文本方式编辑。<br />反正我不喜欢 |
+| font + style样式<br />主要是face size color | `<font style="color:red">红色</font><br /><font style="color:blue">蓝色</font><br /><font style="color:green">绿色</font><br /><font style="color:cyan">青色</font>` | 看到有的人比较喜欢使用这个。<br />其实还是可以用，如果有工具栏，并且能保证不会以纯文本方式编辑。<br />反正我不喜欢 |
 | class                                       | <p class="custom">自定义</p>                                 | 自定义了一个class，来使用自定义样式                          |
 
-
+> [!warning]
+> 现已不再推荐 `center` `font` `big` 等标签，不利于结构与样式分离，且他们在HTML4中已经被废弃，并在某些环境中可能报错
+> 
+> ```bash
+> [Vue warn]: Failed to resolve component: center
+> 665If this is a native custom element, make sure to exclude it from component resolution via compileroptions.isCustomElement.
+> 666[Vue warn]: Failed to resolve component: font
+> 667If this is a native custom element, make sure to exclude it from component resolution via compilerOptions.isCustomElement.
+> ```
 
 ### 没有任何用的必要
 

@@ -911,7 +911,7 @@ console.log(dv.current().file.tasks);
 
 例如将代码放入下图所示的 `水质检测项目.md` 文件中：
 
-![image-20210816104300278](assets/image-20210816104300278.png)
+`![image-20210816104300278](assets/image-20210816104300278.png)` (文件缺失)
 
 ```sql
 ​```dataviewjs

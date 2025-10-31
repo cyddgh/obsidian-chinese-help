@@ -71,4 +71,4 @@
 --- 
 
 
-创建时间：{{date:YYYY-MM-DD}} {{time:HH:mm}}
+创建时间：`{{date:YYYY-MM-DD}} {{time:HH:mm}}`

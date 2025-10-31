@@ -1101,7 +1101,7 @@ print "Good bye!"
 - **效果：**
 
   - 这是一段普通文本
-    <big>这是一段放大文本</big>
+    `<big>这是一段放大文本</big>` (现已不再推荐 `center` `font` `big` 等标签，不利于结构与样式分离，且他们在HTML4中已经被废弃，并在某些环境中可能报错)
 	
 <br>
 
@@ -1126,14 +1126,14 @@ print "Good bye!"
   
   - **`<font color=orange>这是一段橘色文本</font>`**
 - **效果：**
-  - <font color=orange>这是一段橘色文本</font>
+  - `<font color=orange>这是一段橘色文本</font>` (现已不再推荐 `center` `font` `big` 等标签，不利于结构与样式分离，且他们在HTML4中已经被废弃，并在某些环境中可能报错)
     - color 里的颜色支持 英文单词，**[16进制](http://c.runoob.com/front-end/55 "可跳转至菜鸟教程了解")，[rgb](https://www.runoob.com/cssref/func-rgb-css.html "可跳转至菜鸟教程了解")，[rgba](https://www.runoob.com/cssref/func-rgba.html "可跳转至菜鸟教程了解")**
 
 - **多彩加粗文本：**
 
   - 只需要在上面示例的基础上，为里面的文本内容加上 **加粗标识符**
     - **格式：** `<font color=teal>**这是一段加粗的水鸭色文本**</font>`
-    - **效果：**  <font color=teal>**这是一段加粗的水鸭色文本**</font>
+    - **效果：**  `<font color=teal>**这是一段加粗的水鸭色文本**</font>` (现已不再推荐 `center` `font` `big` 等标签，不利于结构与样式分离，且他们在HTML4中已经被废弃，并在某些环境中可能报错)
 	- 在部分编辑器中(例如**Obsidian**)，MD与HTML的混搭会导致 **样式失效** ，可以使用纯HTML标记
 		-  **格式：** `<strong style="color:teal;">这是一段加粗的水鸭色文本</strong>`   (标记略复杂，不是很推荐)
 		-  **效果：** <strong style="color:teal;">这是一段加粗的水鸭色文本</strong>
